@@ -1,0 +1,1001 @@
+CustomerID,Age Group,Income Level,Region,Purchase Frequency,Health Preference,Brand Recall,Snack Perception
+1,45-54,Medium,East,Rarely,Organic,NourishAI,A way to try new flavors and ingredients.
+2,25-34,Low,East,Weekly,Vegan,NourishAI,Something crunchy and tasty to enjoy.
+3,35-44,Medium,North,Monthly,No preference,Competitor A,A quick energy boost during work.
+4,65+,High,East,Never,Vegan,No preference,Something crunchy and tasty to enjoy.
+5,55-64,Low,North,Monthly,Organic,Competitor B,Something crunchy and tasty to enjoy.
+6,65+,Medium,South,Monthly,Vegan,Competitor B,Something crunchy and tasty to enjoy.
+7,18-24,Medium,South,Monthly,No preference,NourishAI,A way to try new flavors and ingredients.
+8,18-24,Medium,East,Monthly,Gluten-free,Competitor B,A way to try new flavors and ingredients.
+9,65+,Low,South,Monthly,Organic,Competitor C,A guilty pleasure for movie nights.
+10,35-44,High,South,Daily,High-protein,NourishAI,A guilty pleasure for movie nights.
+11,65+,High,North,Monthly,Vegan,Competitor A,A healthy alternative to junk food.
+12,25-34,Low,North,Weekly,No preference,Competitor C,A healthy alternative to junk food.
+13,25-34,Low,West,Weekly,Gluten-free,Competitor A,Something crunchy and tasty to enjoy.
+14,55-64,Low,North,Weekly,Organic,Competitor B,A healthy alternative to junk food.
+15,18-24,Medium,West,Weekly,High-protein,Competitor C,Something crunchy and tasty to enjoy.
+16,18-24,Low,West,Rarely,Gluten-free,Competitor A,A quick energy boost during work.
+17,35-44,High,North,Weekly,Organic,NourishAI,Something crunchy and tasty to enjoy.
+18,55-64,Medium,North,Rarely,Gluten-free,NourishAI,Something crunchy and tasty to enjoy.
+19,25-34,Low,East,Daily,Low-calorie,Competitor B,A healthy alternative to junk food.
+20,18-24,Low,North,Monthly,Gluten-free,NourishAI,A quick energy boost during work.
+21,55-64,High,South,Rarely,Gluten-free,Competitor A,A way to try new flavors and ingredients.
+22,55-64,Low,West,Monthly,No preference,Competitor B,Something crunchy and tasty to enjoy.
+23,45-54,Low,North,Monthly,No preference,Competitor A,A quick energy boost during work.
+24,55-64,High,South,Rarely,Gluten-free,NourishAI,A way to try new flavors and ingredients.
+25,45-54,Medium,East,Monthly,Gluten-free,Competitor A,Something crunchy and tasty to enjoy.
+26,35-44,Medium,West,Weekly,Low-calorie,Competitor C,A guilty pleasure for movie nights.
+27,35-44,Medium,East,Weekly,Vegan,Competitor A,A way to try new flavors and ingredients.
+28,35-44,High,North,Weekly,No preference,Competitor A,A guilty pleasure for movie nights.
+29,45-54,Low,West,Weekly,Low-calorie,NourishAI,A way to try new flavors and ingredients.
+30,55-64,Medium,East,Weekly,Organic,NourishAI,Something crunchy and tasty to enjoy.
+31,45-54,Low,West,Daily,No preference,NourishAI,A healthy alternative to junk food.
+32,45-54,High,West,Weekly,Vegan,NourishAI,A guilty pleasure for movie nights.
+33,35-44,Medium,West,Monthly,Organic,Competitor A,Something crunchy and tasty to enjoy.
+34,45-54,Medium,South,Monthly,Low-calorie,Competitor A,Something crunchy and tasty to enjoy.
+35,35-44,Medium,North,Never,Organic,Competitor C,A way to try new flavors and ingredients.
+36,55-64,High,North,Weekly,High-protein,NourishAI,A way to try new flavors and ingredients.
+37,45-54,High,South,Daily,Low-calorie,Competitor C,A way to try new flavors and ingredients.
+38,35-44,High,East,Rarely,Low-calorie,No preference,Something crunchy and tasty to enjoy.
+39,18-24,Low,South,Monthly,No preference,Competitor C,A guilty pleasure for movie nights.
+40,65+,Medium,West,Monthly,Organic,Competitor A,A guilty pleasure for movie nights.
+41,18-24,Medium,North,Daily,Low-calorie,Competitor C,A guilty pleasure for movie nights.
+42,65+,High,South,Rarely,High-protein,NourishAI,A quick energy boost during work.
+43,25-34,High,North,Weekly,Organic,Competitor A,A guilty pleasure for movie nights.
+44,55-64,Medium,South,Rarely,Low-calorie,Competitor B,A healthy alternative to junk food.
+45,25-34,Medium,North,Daily,Low-calorie,NourishAI,A guilty pleasure for movie nights.
+46,55-64,Low,South,Rarely,Low-calorie,Competitor A,A quick energy boost during work.
+47,35-44,Medium,West,Weekly,Gluten-free,NourishAI,A way to try new flavors and ingredients.
+48,65+,Low,South,Weekly,Low-calorie,Competitor B,Something crunchy and tasty to enjoy.
+49,35-44,Low,South,Monthly,Gluten-free,NourishAI,A quick energy boost during work.
+50,65+,High,South,Monthly,Gluten-free,Competitor A,A quick energy boost during work.
+51,18-24,High,East,Daily,High-protein,NourishAI,Something crunchy and tasty to enjoy.
+52,55-64,High,North,Daily,Organic,NourishAI,Something crunchy and tasty to enjoy.
+53,35-44,Low,West,Weekly,Vegan,Competitor B,A healthy alternative to junk food.
+54,25-34,High,East,Rarely,Organic,Competitor B,Something crunchy and tasty to enjoy.
+55,65+,Low,South,Never,Low-calorie,Competitor B,A guilty pleasure for movie nights.
+56,25-34,Medium,East,Daily,High-protein,Competitor A,A guilty pleasure for movie nights.
+57,35-44,High,East,Rarely,High-protein,Competitor B,A quick energy boost during work.
+58,55-64,Medium,East,Rarely,Vegan,Competitor A,A healthy alternative to junk food.
+59,45-54,High,North,Never,High-protein,Competitor A,A quick energy boost during work.
+60,35-44,Medium,South,Monthly,Organic,Competitor C,A way to try new flavors and ingredients.
+61,35-44,Medium,North,Daily,Gluten-free,Competitor B,A way to try new flavors and ingredients.
+62,18-24,Low,West,Rarely,Gluten-free,Competitor C,Something crunchy and tasty to enjoy.
+63,55-64,Low,West,Monthly,Vegan,Competitor B,A guilty pleasure for movie nights.
+64,18-24,Medium,East,Weekly,No preference,Competitor C,A healthy alternative to junk food.
+65,65+,High,West,Monthly,Organic,Competitor B,A healthy alternative to junk food.
+66,18-24,High,West,Rarely,Organic,Competitor B,A healthy alternative to junk food.
+67,45-54,Medium,South,Monthly,Organic,Competitor A,A healthy alternative to junk food.
+68,65+,Low,North,Daily,Gluten-free,NourishAI,A quick energy boost during work.
+69,35-44,Low,South,Monthly,Organic,Competitor B,A quick energy boost during work.
+70,45-54,Low,East,Rarely,No preference,NourishAI,A quick energy boost during work.
+71,45-54,Low,North,Weekly,Vegan,No preference,A healthy alternative to junk food.
+72,25-34,High,East,Rarely,No preference,NourishAI,A healthy alternative to junk food.
+73,55-64,Low,South,Rarely,Low-calorie,Competitor A,A healthy alternative to junk food.
+74,25-34,High,East,Rarely,No preference,NourishAI,A guilty pleasure for movie nights.
+75,45-54,Medium,North,Daily,Organic,Competitor C,A quick energy boost during work.
+76,35-44,Medium,East,Rarely,Organic,No preference,A guilty pleasure for movie nights.
+77,45-54,Medium,West,Rarely,High-protein,Competitor C,A quick energy boost during work.
+78,35-44,High,South,Daily,Vegan,NourishAI,A quick energy boost during work.
+79,35-44,High,North,Rarely,Vegan,NourishAI,A quick energy boost during work.
+80,55-64,Medium,South,Rarely,Vegan,Competitor C,A guilty pleasure for movie nights.
+81,25-34,High,West,Monthly,Low-calorie,Competitor C,A quick energy boost during work.
+82,55-64,Medium,East,Monthly,Gluten-free,Competitor B,A way to try new flavors and ingredients.
+83,45-54,High,East,Monthly,Gluten-free,NourishAI,A quick energy boost during work.
+84,25-34,High,East,Monthly,Vegan,Competitor B,A guilty pleasure for movie nights.
+85,55-64,High,West,Rarely,Gluten-free,Competitor C,A guilty pleasure for movie nights.
+86,25-34,Medium,South,Monthly,Gluten-free,NourishAI,A way to try new flavors and ingredients.
+87,25-34,High,South,Monthly,Low-calorie,Competitor B,A way to try new flavors and ingredients.
+88,25-34,High,South,Weekly,Vegan,Competitor A,A way to try new flavors and ingredients.
+89,25-34,High,South,Monthly,No preference,NourishAI,A healthy alternative to junk food.
+90,65+,Medium,West,Never,Vegan,Competitor C,A guilty pleasure for movie nights.
+91,35-44,Low,West,Daily,Organic,NourishAI,Something crunchy and tasty to enjoy.
+92,55-64,High,West,Monthly,Organic,No preference,A quick energy boost during work.
+93,65+,High,South,Weekly,No preference,NourishAI,A healthy alternative to junk food.
+94,18-24,Medium,North,Weekly,No preference,Competitor A,Something crunchy and tasty to enjoy.
+95,45-54,Low,East,Weekly,Gluten-free,No preference,A guilty pleasure for movie nights.
+96,55-64,High,South,Rarely,Vegan,NourishAI,Something crunchy and tasty to enjoy.
+97,25-34,Medium,East,Monthly,High-protein,NourishAI,A healthy alternative to junk food.
+98,45-54,Medium,North,Monthly,Vegan,Competitor B,A quick energy boost during work.
+99,65+,High,North,Rarely,Low-calorie,NourishAI,A guilty pleasure for movie nights.
+100,35-44,High,West,Weekly,Low-calorie,NourishAI,A guilty pleasure for movie nights.
+101,65+,Medium,East,Never,Vegan,No preference,A way to try new flavors and ingredients.
+102,25-34,High,East,Weekly,Gluten-free,No preference,A healthy alternative to junk food.
+103,25-34,Low,South,Monthly,Low-calorie,No preference,A quick energy boost during work.
+104,55-64,High,South,Weekly,Vegan,NourishAI,A way to try new flavors and ingredients.
+105,35-44,Low,East,Monthly,Vegan,NourishAI,A healthy alternative to junk food.
+106,25-34,High,North,Never,Low-calorie,NourishAI,A guilty pleasure for movie nights.
+107,25-34,Medium,West,Weekly,Organic,NourishAI,Something crunchy and tasty to enjoy.
+108,18-24,Medium,West,Monthly,Low-calorie,Competitor B,A way to try new flavors and ingredients.
+109,45-54,Medium,West,Weekly,Gluten-free,Competitor A,Something crunchy and tasty to enjoy.
+110,55-64,Medium,North,Monthly,Vegan,Competitor B,A way to try new flavors and ingredients.
+111,55-64,Low,West,Rarely,No preference,No preference,A healthy alternative to junk food.
+112,55-64,High,South,Rarely,Gluten-free,NourishAI,A guilty pleasure for movie nights.
+113,35-44,High,South,Monthly,No preference,NourishAI,A way to try new flavors and ingredients.
+114,45-54,Low,East,Never,High-protein,NourishAI,A way to try new flavors and ingredients.
+115,18-24,Medium,East,Monthly,Gluten-free,Competitor C,Something crunchy and tasty to enjoy.
+116,35-44,Low,South,Daily,No preference,NourishAI,A quick energy boost during work.
+117,45-54,Low,South,Daily,Vegan,No preference,A healthy alternative to junk food.
+118,45-54,Low,South,Rarely,Gluten-free,NourishAI,A healthy alternative to junk food.
+119,65+,High,North,Rarely,High-protein,Competitor C,A way to try new flavors and ingredients.
+120,35-44,Medium,West,Never,Low-calorie,Competitor A,Something crunchy and tasty to enjoy.
+121,25-34,High,West,Monthly,Organic,Competitor B,A quick energy boost during work.
+122,45-54,Medium,South,Daily,Low-calorie,Competitor A,A guilty pleasure for movie nights.
+123,25-34,Low,South,Rarely,Organic,Competitor B,A healthy alternative to junk food.
+124,25-34,Medium,East,Weekly,Low-calorie,No preference,Something crunchy and tasty to enjoy.
+125,55-64,Medium,East,Rarely,Organic,No preference,A healthy alternative to junk food.
+126,25-34,Low,West,Rarely,Gluten-free,No preference,A healthy alternative to junk food.
+127,65+,High,North,Never,No preference,No preference,A guilty pleasure for movie nights.
+128,65+,Low,South,Monthly,High-protein,NourishAI,A guilty pleasure for movie nights.
+129,65+,Low,West,Monthly,Vegan,Competitor B,A quick energy boost during work.
+130,35-44,Low,East,Monthly,Vegan,NourishAI,A guilty pleasure for movie nights.
+131,18-24,Low,East,Weekly,Low-calorie,No preference,A guilty pleasure for movie nights.
+132,45-54,Medium,North,Daily,High-protein,Competitor A,A way to try new flavors and ingredients.
+133,18-24,High,North,Weekly,Vegan,NourishAI,A healthy alternative to junk food.
+134,18-24,Medium,East,Monthly,No preference,NourishAI,A quick energy boost during work.
+135,45-54,Low,West,Weekly,Organic,NourishAI,A way to try new flavors and ingredients.
+136,25-34,Medium,East,Monthly,Low-calorie,NourishAI,A healthy alternative to junk food.
+137,65+,High,North,Weekly,Vegan,Competitor B,A way to try new flavors and ingredients.
+138,18-24,Low,North,Weekly,Organic,NourishAI,A quick energy boost during work.
+139,35-44,Low,South,Rarely,Low-calorie,Competitor C,A way to try new flavors and ingredients.
+140,45-54,Medium,East,Weekly,High-protein,NourishAI,A healthy alternative to junk food.
+141,35-44,Medium,West,Monthly,Gluten-free,NourishAI,A quick energy boost during work.
+142,55-64,High,North,Monthly,Low-calorie,NourishAI,A quick energy boost during work.
+143,65+,Low,East,Monthly,Organic,Competitor C,A quick energy boost during work.
+144,18-24,Medium,North,Weekly,Low-calorie,NourishAI,A guilty pleasure for movie nights.
+145,45-54,Medium,West,Monthly,High-protein,Competitor C,A healthy alternative to junk food.
+146,65+,Low,West,Daily,No preference,Competitor B,Something crunchy and tasty to enjoy.
+147,55-64,Low,East,Rarely,Vegan,Competitor B,A quick energy boost during work.
+148,35-44,Medium,East,Monthly,Vegan,NourishAI,A way to try new flavors and ingredients.
+149,45-54,High,South,Daily,Vegan,Competitor A,A quick energy boost during work.
+150,55-64,Medium,West,Rarely,High-protein,Competitor B,A quick energy boost during work.
+151,65+,Medium,West,Daily,Organic,NourishAI,A way to try new flavors and ingredients.
+152,65+,Medium,North,Rarely,Organic,NourishAI,A quick energy boost during work.
+153,35-44,Low,South,Weekly,Organic,Competitor B,A way to try new flavors and ingredients.
+154,25-34,Medium,West,Rarely,Gluten-free,NourishAI,A quick energy boost during work.
+155,45-54,Medium,South,Rarely,Low-calorie,No preference,A quick energy boost during work.
+156,45-54,Low,South,Weekly,No preference,NourishAI,A way to try new flavors and ingredients.
+157,45-54,High,South,Monthly,Low-calorie,Competitor A,Something crunchy and tasty to enjoy.
+158,45-54,High,West,Daily,Low-calorie,Competitor A,Something crunchy and tasty to enjoy.
+159,35-44,High,West,Never,Vegan,No preference,Something crunchy and tasty to enjoy.
+160,25-34,Low,West,Rarely,Gluten-free,NourishAI,A healthy alternative to junk food.
+161,65+,Low,East,Monthly,Vegan,Competitor B,A quick energy boost during work.
+162,18-24,Medium,East,Daily,High-protein,NourishAI,A quick energy boost during work.
+163,35-44,Medium,West,Weekly,Gluten-free,Competitor A,A guilty pleasure for movie nights.
+164,35-44,High,West,Monthly,Organic,Competitor B,Something crunchy and tasty to enjoy.
+165,18-24,Medium,South,Monthly,Gluten-free,NourishAI,A healthy alternative to junk food.
+166,55-64,Medium,South,Rarely,Gluten-free,Competitor B,A quick energy boost during work.
+167,18-24,Medium,East,Monthly,Low-calorie,NourishAI,Something crunchy and tasty to enjoy.
+168,25-34,Medium,West,Monthly,No preference,Competitor C,A guilty pleasure for movie nights.
+169,18-24,Medium,East,Monthly,High-protein,No preference,A guilty pleasure for movie nights.
+170,18-24,Medium,East,Daily,No preference,NourishAI,A quick energy boost during work.
+171,25-34,Low,South,Monthly,High-protein,NourishAI,A way to try new flavors and ingredients.
+172,65+,Medium,East,Weekly,No preference,Competitor A,Something crunchy and tasty to enjoy.
+173,25-34,High,North,Weekly,No preference,NourishAI,A guilty pleasure for movie nights.
+174,55-64,Medium,West,Monthly,Low-calorie,NourishAI,A guilty pleasure for movie nights.
+175,25-34,High,West,Daily,High-protein,Competitor A,A quick energy boost during work.
+176,18-24,Low,North,Weekly,No preference,Competitor A,A quick energy boost during work.
+177,65+,High,North,Monthly,Low-calorie,Competitor B,A way to try new flavors and ingredients.
+178,35-44,High,North,Rarely,Gluten-free,No preference,Something crunchy and tasty to enjoy.
+179,65+,Low,East,Weekly,Gluten-free,Competitor A,Something crunchy and tasty to enjoy.
+180,45-54,Low,East,Rarely,No preference,Competitor A,A way to try new flavors and ingredients.
+181,25-34,Medium,North,Daily,No preference,Competitor A,A way to try new flavors and ingredients.
+182,35-44,High,North,Weekly,No preference,No preference,A healthy alternative to junk food.
+183,45-54,High,North,Never,Vegan,NourishAI,A way to try new flavors and ingredients.
+184,35-44,Medium,West,Monthly,Vegan,Competitor C,A guilty pleasure for movie nights.
+185,55-64,Medium,North,Rarely,High-protein,No preference,A healthy alternative to junk food.
+186,35-44,Low,West,Weekly,No preference,NourishAI,A guilty pleasure for movie nights.
+187,55-64,Medium,East,Daily,Low-calorie,Competitor C,Something crunchy and tasty to enjoy.
+188,35-44,Medium,West,Rarely,Organic,Competitor B,A quick energy boost during work.
+189,45-54,High,West,Monthly,Vegan,No preference,A guilty pleasure for movie nights.
+190,55-64,High,North,Never,Organic,Competitor A,A healthy alternative to junk food.
+191,65+,High,West,Rarely,Gluten-free,Competitor B,A healthy alternative to junk food.
+192,18-24,High,East,Monthly,Vegan,No preference,A healthy alternative to junk food.
+193,18-24,High,West,Never,Low-calorie,Competitor A,A way to try new flavors and ingredients.
+194,55-64,Medium,West,Rarely,Vegan,Competitor C,Something crunchy and tasty to enjoy.
+195,18-24,Medium,West,Monthly,High-protein,NourishAI,A quick energy boost during work.
+196,18-24,Low,East,Never,Low-calorie,Competitor B,A way to try new flavors and ingredients.
+197,45-54,Medium,East,Never,Vegan,NourishAI,A healthy alternative to junk food.
+198,25-34,Low,North,Rarely,Gluten-free,No preference,A way to try new flavors and ingredients.
+199,45-54,High,West,Weekly,Low-calorie,Competitor C,A guilty pleasure for movie nights.
+200,25-34,Medium,South,Weekly,High-protein,Competitor C,A way to try new flavors and ingredients.
+201,35-44,Medium,South,Monthly,No preference,NourishAI,A quick energy boost during work.
+202,55-64,Medium,West,Never,No preference,Competitor A,A healthy alternative to junk food.
+203,45-54,Medium,East,Never,Organic,Competitor C,A healthy alternative to junk food.
+204,18-24,High,West,Rarely,Organic,Competitor C,A way to try new flavors and ingredients.
+205,18-24,High,East,Weekly,No preference,Competitor C,A guilty pleasure for movie nights.
+206,45-54,Low,West,Weekly,High-protein,NourishAI,Something crunchy and tasty to enjoy.
+207,65+,High,South,Rarely,Vegan,No preference,Something crunchy and tasty to enjoy.
+208,65+,Medium,East,Weekly,Vegan,Competitor A,A guilty pleasure for movie nights.
+209,45-54,Low,East,Rarely,High-protein,Competitor C,A healthy alternative to junk food.
+210,25-34,Low,North,Monthly,Gluten-free,Competitor C,Something crunchy and tasty to enjoy.
+211,25-34,Low,North,Never,Gluten-free,No preference,Something crunchy and tasty to enjoy.
+212,45-54,Low,North,Rarely,Organic,NourishAI,A guilty pleasure for movie nights.
+213,35-44,Low,West,Monthly,High-protein,Competitor A,A healthy alternative to junk food.
+214,18-24,Low,South,Monthly,Gluten-free,Competitor A,A guilty pleasure for movie nights.
+215,65+,High,West,Weekly,No preference,Competitor C,A quick energy boost during work.
+216,45-54,Low,West,Monthly,Low-calorie,Competitor A,A quick energy boost during work.
+217,55-64,High,South,Monthly,Organic,No preference,A quick energy boost during work.
+218,45-54,High,West,Weekly,High-protein,Competitor A,A quick energy boost during work.
+219,55-64,Low,South,Weekly,No preference,Competitor C,A healthy alternative to junk food.
+220,55-64,Low,South,Rarely,Vegan,NourishAI,Something crunchy and tasty to enjoy.
+221,45-54,Medium,West,Monthly,High-protein,Competitor B,A way to try new flavors and ingredients.
+222,35-44,Medium,South,Rarely,High-protein,Competitor A,A way to try new flavors and ingredients.
+223,65+,Medium,North,Monthly,High-protein,No preference,A healthy alternative to junk food.
+224,18-24,Low,North,Never,Organic,NourishAI,Something crunchy and tasty to enjoy.
+225,35-44,High,East,Rarely,Vegan,NourishAI,A way to try new flavors and ingredients.
+226,18-24,High,West,Never,Vegan,NourishAI,Something crunchy and tasty to enjoy.
+227,25-34,Low,East,Daily,Low-calorie,NourishAI,Something crunchy and tasty to enjoy.
+228,25-34,High,East,Monthly,High-protein,Competitor B,A way to try new flavors and ingredients.
+229,65+,High,West,Monthly,High-protein,Competitor A,Something crunchy and tasty to enjoy.
+230,25-34,Low,South,Monthly,High-protein,Competitor A,A quick energy boost during work.
+231,65+,Low,South,Daily,No preference,NourishAI,A quick energy boost during work.
+232,55-64,Low,South,Weekly,High-protein,Competitor C,A healthy alternative to junk food.
+233,18-24,High,South,Weekly,Vegan,No preference,A guilty pleasure for movie nights.
+234,18-24,High,South,Monthly,Low-calorie,No preference,Something crunchy and tasty to enjoy.
+235,35-44,High,North,Monthly,Organic,NourishAI,A healthy alternative to junk food.
+236,18-24,Medium,West,Rarely,High-protein,Competitor A,A quick energy boost during work.
+237,18-24,High,North,Monthly,Low-calorie,NourishAI,A healthy alternative to junk food.
+238,25-34,Low,East,Weekly,Organic,NourishAI,A quick energy boost during work.
+239,65+,Low,West,Monthly,Vegan,No preference,Something crunchy and tasty to enjoy.
+240,25-34,Low,West,Monthly,Low-calorie,No preference,A guilty pleasure for movie nights.
+241,25-34,High,West,Daily,Low-calorie,Competitor B,A guilty pleasure for movie nights.
+242,55-64,High,North,Weekly,No preference,No preference,A way to try new flavors and ingredients.
+243,65+,High,West,Monthly,No preference,NourishAI,A way to try new flavors and ingredients.
+244,18-24,Low,North,Rarely,High-protein,Competitor B,A healthy alternative to junk food.
+245,18-24,High,North,Monthly,High-protein,NourishAI,Something crunchy and tasty to enjoy.
+246,25-34,Low,South,Weekly,High-protein,Competitor C,A healthy alternative to junk food.
+247,55-64,Low,West,Rarely,Gluten-free,Competitor B,A quick energy boost during work.
+248,25-34,Medium,South,Daily,Organic,NourishAI,A way to try new flavors and ingredients.
+249,45-54,High,South,Monthly,High-protein,NourishAI,A quick energy boost during work.
+250,45-54,High,North,Rarely,Low-calorie,Competitor C,A way to try new flavors and ingredients.
+251,25-34,Medium,South,Weekly,High-protein,NourishAI,A way to try new flavors and ingredients.
+252,18-24,Medium,North,Weekly,Gluten-free,NourishAI,A quick energy boost during work.
+253,25-34,High,West,Weekly,Low-calorie,NourishAI,A way to try new flavors and ingredients.
+254,55-64,Low,South,Daily,Gluten-free,No preference,A healthy alternative to junk food.
+255,55-64,High,East,Rarely,Organic,NourishAI,A guilty pleasure for movie nights.
+256,65+,Low,South,Weekly,High-protein,Competitor C,A healthy alternative to junk food.
+257,65+,Low,East,Monthly,No preference,Competitor B,A guilty pleasure for movie nights.
+258,65+,Medium,North,Daily,Organic,NourishAI,A healthy alternative to junk food.
+259,25-34,Low,South,Weekly,Vegan,Competitor A,A quick energy boost during work.
+260,25-34,Medium,West,Weekly,Vegan,NourishAI,A guilty pleasure for movie nights.
+261,18-24,High,North,Never,High-protein,NourishAI,A guilty pleasure for movie nights.
+262,65+,Low,East,Weekly,Organic,NourishAI,A healthy alternative to junk food.
+263,65+,High,West,Monthly,Gluten-free,NourishAI,A way to try new flavors and ingredients.
+264,18-24,High,East,Daily,High-protein,Competitor C,A guilty pleasure for movie nights.
+265,25-34,Medium,North,Daily,Organic,No preference,A quick energy boost during work.
+266,55-64,Low,South,Weekly,High-protein,No preference,A way to try new flavors and ingredients.
+267,25-34,Medium,East,Rarely,Gluten-free,NourishAI,Something crunchy and tasty to enjoy.
+268,25-34,Low,East,Monthly,No preference,Competitor B,A healthy alternative to junk food.
+269,45-54,Medium,West,Monthly,High-protein,NourishAI,A quick energy boost during work.
+270,55-64,Medium,East,Daily,Gluten-free,Competitor A,A quick energy boost during work.
+271,55-64,Medium,North,Daily,Organic,No preference,A guilty pleasure for movie nights.
+272,25-34,Medium,East,Rarely,Low-calorie,Competitor B,A healthy alternative to junk food.
+273,55-64,High,South,Monthly,Gluten-free,NourishAI,A guilty pleasure for movie nights.
+274,18-24,Medium,East,Never,No preference,Competitor A,A guilty pleasure for movie nights.
+275,18-24,Medium,West,Weekly,Gluten-free,NourishAI,A way to try new flavors and ingredients.
+276,35-44,Low,East,Monthly,High-protein,Competitor A,A healthy alternative to junk food.
+277,55-64,Low,West,Weekly,Low-calorie,Competitor B,A healthy alternative to junk food.
+278,45-54,High,West,Rarely,No preference,Competitor B,A quick energy boost during work.
+279,25-34,High,West,Weekly,Vegan,Competitor C,A healthy alternative to junk food.
+280,45-54,High,North,Rarely,Organic,No preference,A guilty pleasure for movie nights.
+281,45-54,High,South,Rarely,Organic,Competitor A,Something crunchy and tasty to enjoy.
+282,55-64,High,West,Monthly,Vegan,NourishAI,A guilty pleasure for movie nights.
+283,35-44,Medium,North,Never,No preference,NourishAI,A way to try new flavors and ingredients.
+284,35-44,Medium,East,Rarely,Organic,NourishAI,A quick energy boost during work.
+285,45-54,Medium,South,Monthly,Organic,Competitor C,A guilty pleasure for movie nights.
+286,35-44,Medium,West,Weekly,Vegan,NourishAI,A way to try new flavors and ingredients.
+287,18-24,Medium,West,Rarely,High-protein,Competitor B,Something crunchy and tasty to enjoy.
+288,55-64,Low,North,Monthly,High-protein,Competitor C,A guilty pleasure for movie nights.
+289,18-24,Medium,North,Daily,Low-calorie,Competitor A,A way to try new flavors and ingredients.
+290,65+,High,West,Monthly,No preference,Competitor C,A way to try new flavors and ingredients.
+291,65+,Medium,South,Weekly,High-protein,Competitor A,A way to try new flavors and ingredients.
+292,25-34,High,East,Monthly,High-protein,Competitor A,Something crunchy and tasty to enjoy.
+293,35-44,Medium,West,Weekly,Organic,No preference,A guilty pleasure for movie nights.
+294,35-44,High,North,Monthly,High-protein,Competitor B,A guilty pleasure for movie nights.
+295,45-54,Medium,West,Daily,Gluten-free,NourishAI,A quick energy boost during work.
+296,18-24,High,East,Weekly,Vegan,NourishAI,A quick energy boost during work.
+297,35-44,High,West,Rarely,Organic,Competitor C,A quick energy boost during work.
+298,18-24,Medium,East,Weekly,No preference,No preference,A way to try new flavors and ingredients.
+299,55-64,Low,West,Never,Gluten-free,NourishAI,A healthy alternative to junk food.
+300,25-34,Low,North,Never,Vegan,Competitor B,Something crunchy and tasty to enjoy.
+301,65+,Medium,West,Rarely,Vegan,Competitor A,A guilty pleasure for movie nights.
+302,65+,High,West,Rarely,High-protein,NourishAI,A guilty pleasure for movie nights.
+303,55-64,Medium,South,Monthly,Low-calorie,Competitor C,A healthy alternative to junk food.
+304,35-44,Medium,West,Daily,Low-calorie,NourishAI,A way to try new flavors and ingredients.
+305,55-64,High,East,Monthly,Organic,No preference,A healthy alternative to junk food.
+306,55-64,Medium,South,Rarely,No preference,NourishAI,A healthy alternative to junk food.
+307,18-24,Medium,South,Daily,Low-calorie,Competitor C,A quick energy boost during work.
+308,65+,Medium,East,Monthly,Organic,Competitor A,A guilty pleasure for movie nights.
+309,18-24,Low,West,Rarely,Vegan,Competitor B,A way to try new flavors and ingredients.
+310,18-24,Medium,North,Weekly,High-protein,Competitor A,A guilty pleasure for movie nights.
+311,35-44,Low,West,Rarely,Organic,Competitor A,A way to try new flavors and ingredients.
+312,25-34,High,West,Weekly,Gluten-free,Competitor B,A guilty pleasure for movie nights.
+313,35-44,High,North,Monthly,Organic,Competitor B,A quick energy boost during work.
+314,45-54,Medium,South,Daily,High-protein,Competitor B,A healthy alternative to junk food.
+315,55-64,High,South,Never,High-protein,NourishAI,A quick energy boost during work.
+316,65+,High,East,Monthly,No preference,NourishAI,A quick energy boost during work.
+317,25-34,Low,North,Rarely,Low-calorie,Competitor B,A way to try new flavors and ingredients.
+318,18-24,Medium,South,Weekly,Organic,Competitor B,A guilty pleasure for movie nights.
+319,18-24,High,East,Monthly,Low-calorie,Competitor A,A guilty pleasure for movie nights.
+320,35-44,Low,North,Monthly,Vegan,NourishAI,A quick energy boost during work.
+321,25-34,Low,North,Monthly,No preference,Competitor A,A way to try new flavors and ingredients.
+322,45-54,Low,North,Rarely,No preference,NourishAI,A healthy alternative to junk food.
+323,35-44,Medium,West,Weekly,Low-calorie,No preference,A healthy alternative to junk food.
+324,55-64,High,South,Rarely,Gluten-free,Competitor A,A guilty pleasure for movie nights.
+325,45-54,Low,South,Monthly,Organic,No preference,A quick energy boost during work.
+326,45-54,Low,North,Rarely,Low-calorie,Competitor A,A healthy alternative to junk food.
+327,55-64,Medium,South,Never,No preference,NourishAI,A way to try new flavors and ingredients.
+328,45-54,High,West,Weekly,Vegan,NourishAI,Something crunchy and tasty to enjoy.
+329,65+,High,South,Weekly,Gluten-free,NourishAI,Something crunchy and tasty to enjoy.
+330,55-64,Medium,West,Daily,Gluten-free,No preference,Something crunchy and tasty to enjoy.
+331,65+,High,South,Monthly,Gluten-free,No preference,A healthy alternative to junk food.
+332,45-54,High,South,Monthly,High-protein,Competitor A,A guilty pleasure for movie nights.
+333,35-44,Medium,East,Monthly,No preference,Competitor C,A healthy alternative to junk food.
+334,25-34,High,West,Monthly,Vegan,Competitor A,A way to try new flavors and ingredients.
+335,25-34,High,East,Monthly,No preference,Competitor A,A quick energy boost during work.
+336,55-64,High,East,Rarely,No preference,Competitor A,Something crunchy and tasty to enjoy.
+337,35-44,Low,North,Weekly,Gluten-free,NourishAI,A healthy alternative to junk food.
+338,35-44,High,North,Rarely,High-protein,Competitor A,A healthy alternative to junk food.
+339,18-24,Low,West,Daily,Gluten-free,NourishAI,A quick energy boost during work.
+340,35-44,Medium,North,Monthly,No preference,Competitor B,A healthy alternative to junk food.
+341,18-24,High,South,Rarely,Gluten-free,NourishAI,A guilty pleasure for movie nights.
+342,18-24,High,East,Weekly,Organic,NourishAI,A healthy alternative to junk food.
+343,35-44,Low,South,Monthly,Vegan,Competitor C,Something crunchy and tasty to enjoy.
+344,25-34,High,South,Monthly,Organic,NourishAI,Something crunchy and tasty to enjoy.
+345,25-34,Medium,South,Rarely,Low-calorie,No preference,A way to try new flavors and ingredients.
+346,55-64,High,South,Monthly,Vegan,NourishAI,A way to try new flavors and ingredients.
+347,35-44,Low,West,Rarely,Vegan,Competitor B,Something crunchy and tasty to enjoy.
+348,25-34,Low,East,Monthly,High-protein,NourishAI,A healthy alternative to junk food.
+349,45-54,Medium,North,Rarely,Organic,Competitor B,A quick energy boost during work.
+350,35-44,Low,East,Monthly,High-protein,NourishAI,A way to try new flavors and ingredients.
+351,45-54,High,North,Rarely,Vegan,No preference,A quick energy boost during work.
+352,35-44,Low,West,Rarely,No preference,NourishAI,Something crunchy and tasty to enjoy.
+353,45-54,High,West,Rarely,High-protein,Competitor C,Something crunchy and tasty to enjoy.
+354,45-54,High,South,Monthly,High-protein,NourishAI,A healthy alternative to junk food.
+355,65+,High,North,Monthly,Vegan,NourishAI,A quick energy boost during work.
+356,25-34,High,West,Rarely,Organic,NourishAI,A healthy alternative to junk food.
+357,18-24,Low,East,Weekly,Gluten-free,Competitor A,A guilty pleasure for movie nights.
+358,35-44,Low,North,Weekly,Gluten-free,NourishAI,A way to try new flavors and ingredients.
+359,35-44,Medium,North,Rarely,Organic,NourishAI,A guilty pleasure for movie nights.
+360,25-34,Low,South,Never,Low-calorie,No preference,A healthy alternative to junk food.
+361,35-44,Low,South,Rarely,Organic,NourishAI,A way to try new flavors and ingredients.
+362,45-54,Low,South,Rarely,Organic,Competitor C,A quick energy boost during work.
+363,55-64,Low,South,Weekly,Low-calorie,Competitor A,Something crunchy and tasty to enjoy.
+364,55-64,High,West,Monthly,Gluten-free,Competitor B,A guilty pleasure for movie nights.
+365,25-34,Medium,South,Weekly,High-protein,NourishAI,A quick energy boost during work.
+366,18-24,Low,East,Rarely,Gluten-free,Competitor A,A quick energy boost during work.
+367,18-24,High,East,Rarely,Vegan,NourishAI,A quick energy boost during work.
+368,25-34,Low,South,Monthly,No preference,Competitor B,A healthy alternative to junk food.
+369,25-34,Low,West,Daily,Gluten-free,Competitor A,A quick energy boost during work.
+370,65+,Low,South,Monthly,Low-calorie,No preference,Something crunchy and tasty to enjoy.
+371,35-44,Low,West,Never,Vegan,Competitor C,A healthy alternative to junk food.
+372,45-54,Medium,South,Weekly,No preference,NourishAI,A quick energy boost during work.
+373,65+,High,North,Weekly,Low-calorie,Competitor C,Something crunchy and tasty to enjoy.
+374,18-24,Low,South,Daily,High-protein,NourishAI,A healthy alternative to junk food.
+375,25-34,Low,East,Monthly,High-protein,Competitor A,A quick energy boost during work.
+376,25-34,High,North,Monthly,Low-calorie,NourishAI,Something crunchy and tasty to enjoy.
+377,45-54,Low,North,Monthly,Vegan,NourishAI,A guilty pleasure for movie nights.
+378,35-44,Medium,East,Never,Organic,Competitor A,Something crunchy and tasty to enjoy.
+379,65+,Low,East,Monthly,No preference,NourishAI,A way to try new flavors and ingredients.
+380,18-24,Medium,East,Never,Gluten-free,Competitor C,A guilty pleasure for movie nights.
+381,18-24,High,North,Monthly,Low-calorie,No preference,A healthy alternative to junk food.
+382,65+,Medium,North,Weekly,No preference,Competitor A,Something crunchy and tasty to enjoy.
+383,55-64,High,South,Rarely,Low-calorie,NourishAI,A quick energy boost during work.
+384,25-34,Low,South,Monthly,Vegan,Competitor B,A quick energy boost during work.
+385,65+,Low,North,Monthly,Vegan,NourishAI,A quick energy boost during work.
+386,25-34,Medium,North,Rarely,Vegan,Competitor A,A guilty pleasure for movie nights.
+387,25-34,High,West,Monthly,Organic,Competitor A,A guilty pleasure for movie nights.
+388,45-54,Medium,South,Daily,No preference,Competitor C,Something crunchy and tasty to enjoy.
+389,55-64,High,South,Rarely,Organic,Competitor A,A quick energy boost during work.
+390,25-34,Low,South,Weekly,High-protein,Competitor A,A healthy alternative to junk food.
+391,25-34,Low,West,Monthly,Low-calorie,NourishAI,A guilty pleasure for movie nights.
+392,55-64,Low,South,Monthly,No preference,Competitor B,A way to try new flavors and ingredients.
+393,65+,High,East,Weekly,Gluten-free,NourishAI,A quick energy boost during work.
+394,25-34,High,West,Weekly,High-protein,NourishAI,A guilty pleasure for movie nights.
+395,18-24,Medium,East,Monthly,High-protein,Competitor A,A way to try new flavors and ingredients.
+396,35-44,Medium,North,Rarely,Gluten-free,NourishAI,A way to try new flavors and ingredients.
+397,18-24,Low,South,Weekly,High-protein,No preference,A quick energy boost during work.
+398,55-64,High,East,Weekly,Gluten-free,Competitor B,A quick energy boost during work.
+399,55-64,Medium,North,Rarely,High-protein,NourishAI,A quick energy boost during work.
+400,35-44,Medium,East,Weekly,No preference,Competitor B,Something crunchy and tasty to enjoy.
+401,25-34,Low,West,Daily,Low-calorie,Competitor B,A healthy alternative to junk food.
+402,18-24,Low,West,Daily,No preference,Competitor A,A healthy alternative to junk food.
+403,25-34,Medium,North,Monthly,Organic,Competitor B,A healthy alternative to junk food.
+404,35-44,High,South,Monthly,Vegan,NourishAI,A way to try new flavors and ingredients.
+405,65+,High,North,Monthly,Gluten-free,NourishAI,A quick energy boost during work.
+406,65+,Low,North,Rarely,Low-calorie,NourishAI,A healthy alternative to junk food.
+407,25-34,High,East,Weekly,Low-calorie,Competitor B,A quick energy boost during work.
+408,25-34,High,West,Rarely,Gluten-free,NourishAI,A guilty pleasure for movie nights.
+409,65+,High,North,Rarely,Gluten-free,NourishAI,A healthy alternative to junk food.
+410,45-54,Medium,West,Weekly,No preference,Competitor C,Something crunchy and tasty to enjoy.
+411,25-34,Medium,North,Weekly,High-protein,NourishAI,A quick energy boost during work.
+412,18-24,Low,West,Never,Low-calorie,Competitor B,Something crunchy and tasty to enjoy.
+413,35-44,High,South,Monthly,Vegan,Competitor C,A quick energy boost during work.
+414,35-44,High,East,Weekly,No preference,No preference,Something crunchy and tasty to enjoy.
+415,55-64,Low,South,Monthly,Gluten-free,NourishAI,Something crunchy and tasty to enjoy.
+416,45-54,Low,East,Rarely,Low-calorie,Competitor A,Something crunchy and tasty to enjoy.
+417,65+,Low,North,Rarely,Low-calorie,No preference,A guilty pleasure for movie nights.
+418,65+,Low,West,Monthly,Organic,NourishAI,A guilty pleasure for movie nights.
+419,25-34,High,South,Monthly,Vegan,Competitor A,A quick energy boost during work.
+420,25-34,Medium,South,Monthly,Organic,Competitor C,A quick energy boost during work.
+421,35-44,Low,East,Rarely,Low-calorie,NourishAI,A quick energy boost during work.
+422,55-64,High,East,Monthly,Low-calorie,Competitor C,A way to try new flavors and ingredients.
+423,45-54,Low,South,Weekly,Vegan,Competitor C,Something crunchy and tasty to enjoy.
+424,45-54,High,South,Weekly,High-protein,Competitor B,A quick energy boost during work.
+425,45-54,Medium,South,Rarely,Gluten-free,Competitor C,Something crunchy and tasty to enjoy.
+426,18-24,High,North,Rarely,No preference,NourishAI,A healthy alternative to junk food.
+427,18-24,High,South,Rarely,Gluten-free,Competitor C,Something crunchy and tasty to enjoy.
+428,25-34,High,East,Daily,No preference,Competitor A,A way to try new flavors and ingredients.
+429,45-54,Medium,South,Daily,Vegan,NourishAI,Something crunchy and tasty to enjoy.
+430,35-44,Low,East,Weekly,Gluten-free,No preference,Something crunchy and tasty to enjoy.
+431,35-44,High,North,Monthly,Organic,Competitor A,Something crunchy and tasty to enjoy.
+432,65+,Low,West,Monthly,Organic,NourishAI,A way to try new flavors and ingredients.
+433,45-54,Low,East,Rarely,High-protein,NourishAI,A quick energy boost during work.
+434,35-44,High,West,Monthly,No preference,Competitor B,A guilty pleasure for movie nights.
+435,45-54,Low,North,Daily,High-protein,NourishAI,A healthy alternative to junk food.
+436,18-24,High,South,Monthly,Vegan,Competitor C,A quick energy boost during work.
+437,35-44,Low,South,Never,Low-calorie,NourishAI,A way to try new flavors and ingredients.
+438,45-54,Low,East,Weekly,Gluten-free,Competitor B,A way to try new flavors and ingredients.
+439,25-34,Medium,South,Never,High-protein,Competitor B,A quick energy boost during work.
+440,65+,Low,West,Weekly,Vegan,Competitor B,Something crunchy and tasty to enjoy.
+441,25-34,Low,North,Daily,Vegan,NourishAI,A way to try new flavors and ingredients.
+442,35-44,High,West,Never,Gluten-free,Competitor A,Something crunchy and tasty to enjoy.
+443,18-24,High,East,Weekly,Low-calorie,NourishAI,A way to try new flavors and ingredients.
+444,25-34,High,North,Monthly,No preference,Competitor C,Something crunchy and tasty to enjoy.
+445,35-44,High,South,Monthly,Vegan,Competitor B,A healthy alternative to junk food.
+446,35-44,High,South,Rarely,Low-calorie,NourishAI,A healthy alternative to junk food.
+447,18-24,Medium,South,Rarely,Gluten-free,Competitor C,Something crunchy and tasty to enjoy.
+448,55-64,High,South,Weekly,Vegan,NourishAI,A quick energy boost during work.
+449,55-64,High,East,Daily,Organic,NourishAI,A quick energy boost during work.
+450,18-24,Low,North,Monthly,No preference,NourishAI,A quick energy boost during work.
+451,25-34,Low,East,Weekly,Organic,No preference,A quick energy boost during work.
+452,35-44,Low,East,Rarely,Gluten-free,Competitor C,A way to try new flavors and ingredients.
+453,65+,Low,West,Monthly,Vegan,Competitor C,A quick energy boost during work.
+454,45-54,Low,West,Never,Low-calorie,NourishAI,Something crunchy and tasty to enjoy.
+455,55-64,Low,South,Weekly,Low-calorie,Competitor C,Something crunchy and tasty to enjoy.
+456,65+,High,East,Rarely,Low-calorie,NourishAI,A healthy alternative to junk food.
+457,55-64,High,South,Daily,Vegan,Competitor B,A healthy alternative to junk food.
+458,35-44,High,South,Daily,Organic,NourishAI,Something crunchy and tasty to enjoy.
+459,35-44,Low,South,Never,Organic,NourishAI,A quick energy boost during work.
+460,25-34,Low,West,Never,High-protein,NourishAI,A healthy alternative to junk food.
+461,35-44,Medium,North,Monthly,Low-calorie,NourishAI,A quick energy boost during work.
+462,45-54,Medium,North,Never,Gluten-free,NourishAI,A way to try new flavors and ingredients.
+463,25-34,High,South,Daily,Gluten-free,Competitor B,A way to try new flavors and ingredients.
+464,25-34,Low,South,Never,High-protein,Competitor A,A guilty pleasure for movie nights.
+465,35-44,High,West,Daily,High-protein,Competitor A,Something crunchy and tasty to enjoy.
+466,35-44,High,West,Monthly,Vegan,No preference,A healthy alternative to junk food.
+467,55-64,Medium,North,Monthly,Low-calorie,No preference,A way to try new flavors and ingredients.
+468,25-34,High,North,Rarely,High-protein,Competitor A,A healthy alternative to junk food.
+469,25-34,High,West,Never,Organic,NourishAI,A way to try new flavors and ingredients.
+470,55-64,Low,West,Rarely,Vegan,NourishAI,A quick energy boost during work.
+471,18-24,High,North,Rarely,High-protein,No preference,A healthy alternative to junk food.
+472,25-34,Medium,South,Weekly,Low-calorie,NourishAI,A way to try new flavors and ingredients.
+473,65+,Low,West,Weekly,Gluten-free,Competitor C,A guilty pleasure for movie nights.
+474,55-64,Medium,East,Weekly,High-protein,NourishAI,Something crunchy and tasty to enjoy.
+475,35-44,Low,East,Weekly,Gluten-free,NourishAI,A healthy alternative to junk food.
+476,55-64,High,East,Never,Vegan,Competitor B,A quick energy boost during work.
+477,55-64,Low,West,Rarely,Organic,NourishAI,A way to try new flavors and ingredients.
+478,18-24,High,East,Rarely,Vegan,NourishAI,A healthy alternative to junk food.
+479,35-44,Low,West,Weekly,Low-calorie,No preference,A healthy alternative to junk food.
+480,35-44,Low,West,Rarely,High-protein,Competitor A,A healthy alternative to junk food.
+481,25-34,High,North,Weekly,High-protein,NourishAI,A healthy alternative to junk food.
+482,35-44,High,East,Monthly,Low-calorie,No preference,Something crunchy and tasty to enjoy.
+483,45-54,Medium,East,Rarely,Vegan,NourishAI,A healthy alternative to junk food.
+484,18-24,High,North,Rarely,No preference,Competitor B,Something crunchy and tasty to enjoy.
+485,35-44,Low,South,Weekly,High-protein,Competitor B,A guilty pleasure for movie nights.
+486,35-44,Medium,West,Never,High-protein,NourishAI,Something crunchy and tasty to enjoy.
+487,55-64,Medium,North,Never,Organic,No preference,A guilty pleasure for movie nights.
+488,25-34,Medium,East,Weekly,No preference,Competitor C,A way to try new flavors and ingredients.
+489,18-24,Low,West,Weekly,Gluten-free,Competitor B,A quick energy boost during work.
+490,45-54,Low,North,Monthly,Low-calorie,No preference,A healthy alternative to junk food.
+491,55-64,Low,South,Monthly,No preference,Competitor B,A quick energy boost during work.
+492,35-44,High,East,Rarely,No preference,Competitor B,Something crunchy and tasty to enjoy.
+493,65+,Low,East,Weekly,Organic,NourishAI,A healthy alternative to junk food.
+494,35-44,Medium,South,Monthly,Low-calorie,NourishAI,A guilty pleasure for movie nights.
+495,35-44,Medium,South,Never,Low-calorie,NourishAI,A way to try new flavors and ingredients.
+496,45-54,Low,East,Weekly,No preference,NourishAI,Something crunchy and tasty to enjoy.
+497,18-24,Medium,East,Weekly,Organic,Competitor C,A way to try new flavors and ingredients.
+498,35-44,Low,South,Rarely,Organic,Competitor C,A guilty pleasure for movie nights.
+499,65+,Low,West,Monthly,No preference,NourishAI,A way to try new flavors and ingredients.
+500,55-64,High,North,Never,Organic,Competitor A,A guilty pleasure for movie nights.
+501,18-24,High,South,Weekly,Organic,NourishAI,A quick energy boost during work.
+502,65+,High,East,Never,Organic,No preference,A quick energy boost during work.
+503,45-54,Medium,East,Weekly,Organic,No preference,A way to try new flavors and ingredients.
+504,25-34,High,South,Monthly,High-protein,NourishAI,A quick energy boost during work.
+505,65+,Medium,South,Weekly,Low-calorie,NourishAI,Something crunchy and tasty to enjoy.
+506,25-34,High,East,Weekly,No preference,Competitor C,A quick energy boost during work.
+507,65+,Low,West,Weekly,No preference,Competitor A,A way to try new flavors and ingredients.
+508,55-64,Low,South,Weekly,Low-calorie,NourishAI,A way to try new flavors and ingredients.
+509,65+,Low,South,Never,Vegan,NourishAI,A guilty pleasure for movie nights.
+510,18-24,Low,South,Weekly,No preference,NourishAI,Something crunchy and tasty to enjoy.
+511,45-54,Medium,West,Daily,Low-calorie,Competitor C,Something crunchy and tasty to enjoy.
+512,45-54,Low,West,Monthly,Low-calorie,Competitor B,Something crunchy and tasty to enjoy.
+513,45-54,Low,South,Monthly,Low-calorie,Competitor A,A way to try new flavors and ingredients.
+514,55-64,Medium,South,Daily,High-protein,No preference,A quick energy boost during work.
+515,25-34,Medium,South,Daily,High-protein,Competitor C,A guilty pleasure for movie nights.
+516,35-44,Low,North,Rarely,No preference,NourishAI,A healthy alternative to junk food.
+517,65+,Low,West,Rarely,High-protein,Competitor A,A way to try new flavors and ingredients.
+518,35-44,High,East,Monthly,No preference,NourishAI,Something crunchy and tasty to enjoy.
+519,55-64,Medium,East,Daily,Organic,No preference,A quick energy boost during work.
+520,65+,High,North,Weekly,No preference,NourishAI,A healthy alternative to junk food.
+521,35-44,Medium,North,Weekly,Organic,No preference,A guilty pleasure for movie nights.
+522,25-34,High,East,Weekly,Low-calorie,Competitor B,A quick energy boost during work.
+523,55-64,Medium,North,Weekly,Gluten-free,NourishAI,A healthy alternative to junk food.
+524,65+,High,West,Monthly,Organic,Competitor A,A quick energy boost during work.
+525,55-64,Low,West,Daily,No preference,NourishAI,A healthy alternative to junk food.
+526,55-64,Low,North,Weekly,Gluten-free,Competitor A,A way to try new flavors and ingredients.
+527,25-34,Medium,West,Weekly,Organic,Competitor C,A way to try new flavors and ingredients.
+528,35-44,Low,South,Daily,Low-calorie,No preference,A way to try new flavors and ingredients.
+529,25-34,Low,West,Weekly,No preference,NourishAI,Something crunchy and tasty to enjoy.
+530,25-34,High,North,Monthly,High-protein,NourishAI,A guilty pleasure for movie nights.
+531,45-54,High,East,Weekly,High-protein,No preference,A quick energy boost during work.
+532,55-64,Medium,South,Rarely,High-protein,No preference,A healthy alternative to junk food.
+533,18-24,Medium,West,Weekly,High-protein,Competitor C,Something crunchy and tasty to enjoy.
+534,35-44,Low,East,Rarely,High-protein,NourishAI,A quick energy boost during work.
+535,65+,Medium,South,Weekly,High-protein,Competitor A,A guilty pleasure for movie nights.
+536,65+,Medium,South,Rarely,Low-calorie,NourishAI,Something crunchy and tasty to enjoy.
+537,18-24,Medium,South,Rarely,High-protein,Competitor B,A quick energy boost during work.
+538,35-44,High,East,Monthly,No preference,NourishAI,Something crunchy and tasty to enjoy.
+539,25-34,High,North,Rarely,Gluten-free,Competitor A,Something crunchy and tasty to enjoy.
+540,25-34,Low,North,Weekly,Vegan,Competitor B,A way to try new flavors and ingredients.
+541,18-24,Low,East,Daily,Organic,Competitor A,A way to try new flavors and ingredients.
+542,25-34,High,East,Rarely,Organic,NourishAI,A healthy alternative to junk food.
+543,45-54,High,East,Never,Gluten-free,Competitor C,A guilty pleasure for movie nights.
+544,65+,Medium,North,Rarely,Vegan,NourishAI,A guilty pleasure for movie nights.
+545,35-44,Medium,South,Rarely,Organic,NourishAI,Something crunchy and tasty to enjoy.
+546,65+,Low,East,Monthly,Gluten-free,Competitor B,A healthy alternative to junk food.
+547,55-64,Low,North,Rarely,Organic,NourishAI,Something crunchy and tasty to enjoy.
+548,55-64,Medium,East,Monthly,High-protein,NourishAI,A guilty pleasure for movie nights.
+549,35-44,High,South,Rarely,Gluten-free,Competitor A,A quick energy boost during work.
+550,45-54,Low,North,Rarely,No preference,Competitor C,Something crunchy and tasty to enjoy.
+551,35-44,Low,South,Weekly,Gluten-free,NourishAI,Something crunchy and tasty to enjoy.
+552,25-34,Medium,South,Monthly,No preference,Competitor B,A way to try new flavors and ingredients.
+553,35-44,Low,South,Never,No preference,Competitor B,Something crunchy and tasty to enjoy.
+554,25-34,Low,East,Rarely,No preference,No preference,Something crunchy and tasty to enjoy.
+555,65+,High,South,Monthly,Organic,NourishAI,Something crunchy and tasty to enjoy.
+556,18-24,Low,North,Weekly,Vegan,Competitor A,Something crunchy and tasty to enjoy.
+557,18-24,High,North,Monthly,High-protein,Competitor B,A quick energy boost during work.
+558,45-54,Medium,North,Monthly,No preference,Competitor C,A guilty pleasure for movie nights.
+559,18-24,High,North,Rarely,Low-calorie,NourishAI,A quick energy boost during work.
+560,25-34,High,West,Rarely,Organic,Competitor C,A quick energy boost during work.
+561,35-44,High,North,Weekly,Vegan,Competitor C,A healthy alternative to junk food.
+562,25-34,Low,West,Weekly,Organic,NourishAI,A quick energy boost during work.
+563,65+,High,East,Rarely,No preference,Competitor B,A healthy alternative to junk food.
+564,65+,Low,West,Weekly,High-protein,Competitor C,A guilty pleasure for movie nights.
+565,25-34,Low,West,Never,Gluten-free,Competitor C,A guilty pleasure for movie nights.
+566,25-34,High,West,Weekly,Vegan,NourishAI,A healthy alternative to junk food.
+567,18-24,High,North,Monthly,No preference,Competitor B,A guilty pleasure for movie nights.
+568,55-64,Medium,West,Monthly,Gluten-free,NourishAI,A quick energy boost during work.
+569,18-24,Low,East,Rarely,Organic,NourishAI,A way to try new flavors and ingredients.
+570,55-64,High,East,Daily,Vegan,Competitor B,A guilty pleasure for movie nights.
+571,35-44,Medium,South,Monthly,No preference,No preference,Something crunchy and tasty to enjoy.
+572,65+,High,East,Rarely,High-protein,Competitor A,A healthy alternative to junk food.
+573,45-54,Medium,South,Daily,No preference,Competitor B,A way to try new flavors and ingredients.
+574,65+,Medium,South,Rarely,High-protein,No preference,Something crunchy and tasty to enjoy.
+575,45-54,Medium,West,Monthly,Vegan,NourishAI,A guilty pleasure for movie nights.
+576,55-64,Low,North,Weekly,Gluten-free,Competitor A,A guilty pleasure for movie nights.
+577,55-64,Low,West,Daily,Low-calorie,Competitor A,A way to try new flavors and ingredients.
+578,18-24,High,South,Rarely,Vegan,No preference,Something crunchy and tasty to enjoy.
+579,35-44,Low,West,Rarely,Low-calorie,Competitor B,Something crunchy and tasty to enjoy.
+580,55-64,Low,West,Daily,High-protein,Competitor A,A healthy alternative to junk food.
+581,18-24,High,South,Weekly,Organic,Competitor A,Something crunchy and tasty to enjoy.
+582,65+,Medium,West,Weekly,No preference,NourishAI,A quick energy boost during work.
+583,45-54,Medium,West,Monthly,Organic,Competitor B,A way to try new flavors and ingredients.
+584,35-44,High,South,Rarely,Gluten-free,Competitor A,A way to try new flavors and ingredients.
+585,25-34,Medium,South,Rarely,No preference,No preference,A guilty pleasure for movie nights.
+586,65+,High,East,Monthly,Vegan,Competitor B,A quick energy boost during work.
+587,35-44,Medium,East,Rarely,Vegan,Competitor A,A healthy alternative to junk food.
+588,18-24,High,North,Rarely,Organic,Competitor B,Something crunchy and tasty to enjoy.
+589,18-24,Low,West,Never,Organic,NourishAI,A way to try new flavors and ingredients.
+590,18-24,Medium,South,Daily,Organic,NourishAI,A way to try new flavors and ingredients.
+591,35-44,High,East,Daily,Vegan,NourishAI,A guilty pleasure for movie nights.
+592,18-24,Medium,North,Weekly,Vegan,Competitor A,A way to try new flavors and ingredients.
+593,18-24,Medium,East,Never,Organic,No preference,A healthy alternative to junk food.
+594,55-64,Medium,South,Weekly,High-protein,No preference,A guilty pleasure for movie nights.
+595,65+,High,East,Weekly,Low-calorie,NourishAI,A quick energy boost during work.
+596,45-54,Low,South,Monthly,Organic,Competitor B,A guilty pleasure for movie nights.
+597,55-64,Medium,West,Weekly,No preference,No preference,A guilty pleasure for movie nights.
+598,18-24,High,West,Monthly,Vegan,Competitor A,A way to try new flavors and ingredients.
+599,35-44,Medium,North,Weekly,High-protein,Competitor B,A quick energy boost during work.
+600,35-44,Medium,West,Rarely,No preference,NourishAI,A guilty pleasure for movie nights.
+601,35-44,High,South,Never,No preference,Competitor C,A healthy alternative to junk food.
+602,18-24,Medium,East,Rarely,Organic,NourishAI,A guilty pleasure for movie nights.
+603,25-34,Medium,East,Monthly,Low-calorie,Competitor B,Something crunchy and tasty to enjoy.
+604,35-44,Low,North,Weekly,Low-calorie,NourishAI,A guilty pleasure for movie nights.
+605,18-24,Medium,East,Monthly,Vegan,NourishAI,Something crunchy and tasty to enjoy.
+606,35-44,Medium,South,Rarely,Vegan,NourishAI,Something crunchy and tasty to enjoy.
+607,18-24,Low,West,Rarely,No preference,Competitor B,A quick energy boost during work.
+608,35-44,Medium,North,Weekly,Organic,NourishAI,A healthy alternative to junk food.
+609,25-34,Low,East,Weekly,Low-calorie,Competitor A,A quick energy boost during work.
+610,65+,High,East,Monthly,Low-calorie,NourishAI,A guilty pleasure for movie nights.
+611,35-44,Low,South,Monthly,Organic,Competitor A,A guilty pleasure for movie nights.
+612,18-24,Low,South,Rarely,Vegan,Competitor C,A quick energy boost during work.
+613,35-44,Low,West,Weekly,Organic,NourishAI,Something crunchy and tasty to enjoy.
+614,45-54,Medium,South,Rarely,No preference,NourishAI,Something crunchy and tasty to enjoy.
+615,45-54,Low,West,Rarely,Organic,Competitor C,Something crunchy and tasty to enjoy.
+616,45-54,Low,North,Never,Vegan,Competitor A,A quick energy boost during work.
+617,65+,Medium,North,Weekly,High-protein,Competitor B,A quick energy boost during work.
+618,65+,Medium,West,Weekly,Low-calorie,NourishAI,A way to try new flavors and ingredients.
+619,65+,Low,East,Rarely,Organic,No preference,Something crunchy and tasty to enjoy.
+620,45-54,Low,North,Monthly,No preference,Competitor C,A healthy alternative to junk food.
+621,25-34,Low,East,Never,Low-calorie,NourishAI,A healthy alternative to junk food.
+622,45-54,Medium,East,Monthly,Gluten-free,Competitor A,Something crunchy and tasty to enjoy.
+623,55-64,Low,North,Monthly,High-protein,Competitor A,A healthy alternative to junk food.
+624,65+,Medium,South,Weekly,High-protein,NourishAI,A way to try new flavors and ingredients.
+625,35-44,Low,North,Daily,Vegan,Competitor B,A way to try new flavors and ingredients.
+626,45-54,High,North,Monthly,Low-calorie,NourishAI,A guilty pleasure for movie nights.
+627,45-54,Medium,East,Rarely,Organic,NourishAI,A quick energy boost during work.
+628,35-44,Low,West,Weekly,Vegan,Competitor A,A guilty pleasure for movie nights.
+629,55-64,High,West,Weekly,Low-calorie,Competitor A,A guilty pleasure for movie nights.
+630,18-24,High,North,Monthly,High-protein,No preference,A guilty pleasure for movie nights.
+631,65+,Medium,West,Monthly,Low-calorie,NourishAI,A healthy alternative to junk food.
+632,18-24,Medium,South,Monthly,Low-calorie,Competitor A,A way to try new flavors and ingredients.
+633,25-34,Low,South,Weekly,High-protein,NourishAI,Something crunchy and tasty to enjoy.
+634,35-44,Low,East,Weekly,Vegan,No preference,A way to try new flavors and ingredients.
+635,35-44,High,South,Daily,Low-calorie,NourishAI,A guilty pleasure for movie nights.
+636,35-44,High,East,Monthly,Vegan,Competitor C,A quick energy boost during work.
+637,18-24,Medium,East,Weekly,High-protein,NourishAI,A healthy alternative to junk food.
+638,18-24,Medium,South,Weekly,High-protein,NourishAI,Something crunchy and tasty to enjoy.
+639,45-54,Low,North,Monthly,Vegan,Competitor A,A healthy alternative to junk food.
+640,35-44,High,East,Monthly,Low-calorie,Competitor C,A quick energy boost during work.
+641,65+,Medium,South,Monthly,Organic,No preference,A guilty pleasure for movie nights.
+642,35-44,Medium,North,Daily,Vegan,Competitor C,Something crunchy and tasty to enjoy.
+643,25-34,Low,South,Monthly,Gluten-free,NourishAI,Something crunchy and tasty to enjoy.
+644,18-24,Medium,North,Daily,Low-calorie,NourishAI,A guilty pleasure for movie nights.
+645,55-64,High,East,Weekly,High-protein,Competitor A,Something crunchy and tasty to enjoy.
+646,35-44,Medium,South,Weekly,Low-calorie,NourishAI,A guilty pleasure for movie nights.
+647,18-24,Medium,North,Monthly,No preference,Competitor A,A healthy alternative to junk food.
+648,35-44,Low,North,Weekly,Vegan,Competitor C,Something crunchy and tasty to enjoy.
+649,45-54,High,North,Rarely,Gluten-free,NourishAI,A guilty pleasure for movie nights.
+650,55-64,High,South,Monthly,High-protein,No preference,A healthy alternative to junk food.
+651,55-64,Medium,South,Daily,No preference,NourishAI,Something crunchy and tasty to enjoy.
+652,18-24,High,South,Daily,Low-calorie,Competitor B,Something crunchy and tasty to enjoy.
+653,45-54,Low,South,Monthly,Organic,Competitor B,A way to try new flavors and ingredients.
+654,35-44,Medium,East,Monthly,No preference,No preference,A quick energy boost during work.
+655,35-44,Medium,South,Rarely,No preference,Competitor A,A guilty pleasure for movie nights.
+656,65+,Low,North,Weekly,No preference,NourishAI,A healthy alternative to junk food.
+657,45-54,High,East,Rarely,Organic,Competitor B,A healthy alternative to junk food.
+658,35-44,High,North,Weekly,Organic,Competitor B,A guilty pleasure for movie nights.
+659,35-44,High,North,Monthly,Gluten-free,NourishAI,A way to try new flavors and ingredients.
+660,65+,High,South,Weekly,High-protein,Competitor A,A way to try new flavors and ingredients.
+661,25-34,Medium,North,Rarely,High-protein,NourishAI,A guilty pleasure for movie nights.
+662,18-24,High,East,Monthly,High-protein,Competitor C,Something crunchy and tasty to enjoy.
+663,25-34,Medium,East,Daily,Gluten-free,NourishAI,A healthy alternative to junk food.
+664,65+,High,East,Never,Gluten-free,NourishAI,A quick energy boost during work.
+665,55-64,Medium,East,Monthly,Vegan,Competitor B,A healthy alternative to junk food.
+666,45-54,Low,South,Monthly,High-protein,NourishAI,A quick energy boost during work.
+667,55-64,Medium,East,Rarely,Organic,NourishAI,A healthy alternative to junk food.
+668,65+,High,North,Monthly,Vegan,Competitor A,A way to try new flavors and ingredients.
+669,25-34,Medium,West,Rarely,No preference,Competitor B,A healthy alternative to junk food.
+670,25-34,Medium,North,Weekly,Vegan,No preference,A way to try new flavors and ingredients.
+671,25-34,Low,West,Daily,High-protein,Competitor B,Something crunchy and tasty to enjoy.
+672,65+,Medium,West,Monthly,Low-calorie,Competitor C,A way to try new flavors and ingredients.
+673,55-64,Low,North,Monthly,Organic,Competitor B,A guilty pleasure for movie nights.
+674,35-44,High,West,Monthly,Organic,NourishAI,A healthy alternative to junk food.
+675,25-34,Low,East,Monthly,Organic,No preference,A healthy alternative to junk food.
+676,35-44,High,South,Monthly,High-protein,Competitor A,A way to try new flavors and ingredients.
+677,35-44,Low,East,Rarely,High-protein,Competitor A,A healthy alternative to junk food.
+678,45-54,High,North,Monthly,High-protein,NourishAI,A guilty pleasure for movie nights.
+679,25-34,Low,West,Rarely,Gluten-free,Competitor C,A guilty pleasure for movie nights.
+680,45-54,Medium,South,Monthly,Gluten-free,Competitor C,A way to try new flavors and ingredients.
+681,45-54,Low,East,Monthly,Organic,NourishAI,A quick energy boost during work.
+682,25-34,Medium,East,Weekly,Gluten-free,Competitor C,A healthy alternative to junk food.
+683,45-54,Medium,North,Rarely,High-protein,No preference,A guilty pleasure for movie nights.
+684,25-34,Low,East,Rarely,Low-calorie,NourishAI,A guilty pleasure for movie nights.
+685,65+,High,South,Monthly,Low-calorie,NourishAI,A quick energy boost during work.
+686,25-34,High,East,Monthly,Gluten-free,Competitor A,A way to try new flavors and ingredients.
+687,35-44,High,South,Weekly,High-protein,NourishAI,Something crunchy and tasty to enjoy.
+688,18-24,Medium,West,Weekly,Gluten-free,No preference,A guilty pleasure for movie nights.
+689,18-24,Medium,East,Never,Gluten-free,NourishAI,A way to try new flavors and ingredients.
+690,25-34,Low,East,Monthly,No preference,NourishAI,A guilty pleasure for movie nights.
+691,55-64,Medium,South,Monthly,No preference,No preference,A way to try new flavors and ingredients.
+692,65+,High,East,Never,Organic,Competitor A,A quick energy boost during work.
+693,55-64,High,West,Weekly,High-protein,Competitor C,Something crunchy and tasty to enjoy.
+694,55-64,Medium,West,Daily,High-protein,Competitor C,Something crunchy and tasty to enjoy.
+695,55-64,Low,West,Never,Gluten-free,Competitor B,A healthy alternative to junk food.
+696,45-54,Low,West,Weekly,No preference,NourishAI,A way to try new flavors and ingredients.
+697,45-54,Low,South,Daily,Vegan,No preference,A guilty pleasure for movie nights.
+698,55-64,Low,North,Monthly,Organic,NourishAI,Something crunchy and tasty to enjoy.
+699,25-34,Low,North,Monthly,Vegan,Competitor A,A way to try new flavors and ingredients.
+700,35-44,Low,South,Never,No preference,NourishAI,Something crunchy and tasty to enjoy.
+701,35-44,High,North,Daily,High-protein,No preference,A guilty pleasure for movie nights.
+702,65+,High,North,Weekly,No preference,Competitor C,A way to try new flavors and ingredients.
+703,18-24,Low,West,Monthly,No preference,NourishAI,Something crunchy and tasty to enjoy.
+704,45-54,Medium,West,Weekly,Low-calorie,No preference,A guilty pleasure for movie nights.
+705,45-54,Low,East,Rarely,Gluten-free,Competitor B,A way to try new flavors and ingredients.
+706,65+,Medium,South,Monthly,Organic,NourishAI,Something crunchy and tasty to enjoy.
+707,25-34,Medium,North,Weekly,No preference,NourishAI,A way to try new flavors and ingredients.
+708,25-34,Low,West,Never,High-protein,No preference,A way to try new flavors and ingredients.
+709,55-64,Low,North,Never,Vegan,Competitor B,A guilty pleasure for movie nights.
+710,18-24,Medium,South,Weekly,No preference,Competitor A,A healthy alternative to junk food.
+711,35-44,Medium,East,Weekly,Gluten-free,Competitor A,A quick energy boost during work.
+712,35-44,Medium,West,Rarely,Organic,NourishAI,Something crunchy and tasty to enjoy.
+713,18-24,High,East,Monthly,No preference,Competitor C,A quick energy boost during work.
+714,45-54,Medium,North,Rarely,Gluten-free,Competitor C,A quick energy boost during work.
+715,35-44,Low,East,Monthly,Organic,NourishAI,A way to try new flavors and ingredients.
+716,35-44,Medium,North,Rarely,High-protein,Competitor C,A quick energy boost during work.
+717,45-54,Medium,East,Rarely,No preference,NourishAI,A guilty pleasure for movie nights.
+718,55-64,Low,West,Weekly,Organic,No preference,A healthy alternative to junk food.
+719,55-64,High,North,Never,Vegan,NourishAI,Something crunchy and tasty to enjoy.
+720,45-54,Medium,North,Monthly,Gluten-free,Competitor B,A way to try new flavors and ingredients.
+721,18-24,High,North,Monthly,Low-calorie,NourishAI,A guilty pleasure for movie nights.
+722,45-54,Low,East,Never,Low-calorie,Competitor A,A healthy alternative to junk food.
+723,45-54,High,North,Weekly,Vegan,Competitor A,A quick energy boost during work.
+724,18-24,Low,West,Monthly,Gluten-free,Competitor A,A quick energy boost during work.
+725,55-64,Low,North,Weekly,Low-calorie,No preference,Something crunchy and tasty to enjoy.
+726,25-34,Medium,North,Rarely,Low-calorie,No preference,A healthy alternative to junk food.
+727,55-64,Medium,South,Weekly,Gluten-free,Competitor C,A way to try new flavors and ingredients.
+728,18-24,Medium,West,Monthly,Organic,Competitor B,A healthy alternative to junk food.
+729,65+,Low,West,Never,Vegan,No preference,A quick energy boost during work.
+730,55-64,Low,West,Rarely,No preference,Competitor B,A guilty pleasure for movie nights.
+731,45-54,Low,East,Weekly,No preference,Competitor A,A guilty pleasure for movie nights.
+732,45-54,Medium,South,Never,Organic,Competitor A,A guilty pleasure for movie nights.
+733,25-34,Low,South,Monthly,Low-calorie,Competitor C,A way to try new flavors and ingredients.
+734,35-44,Low,East,Monthly,No preference,NourishAI,Something crunchy and tasty to enjoy.
+735,55-64,High,North,Never,Organic,NourishAI,A guilty pleasure for movie nights.
+736,55-64,High,North,Monthly,Vegan,NourishAI,Something crunchy and tasty to enjoy.
+737,18-24,High,North,Monthly,Low-calorie,NourishAI,A healthy alternative to junk food.
+738,45-54,High,East,Never,Organic,No preference,Something crunchy and tasty to enjoy.
+739,18-24,Low,West,Daily,Gluten-free,NourishAI,A guilty pleasure for movie nights.
+740,45-54,High,West,Weekly,Vegan,Competitor A,A way to try new flavors and ingredients.
+741,45-54,Low,North,Monthly,Vegan,Competitor A,Something crunchy and tasty to enjoy.
+742,18-24,High,West,Weekly,Vegan,NourishAI,A guilty pleasure for movie nights.
+743,65+,Medium,North,Monthly,Low-calorie,Competitor A,A healthy alternative to junk food.
+744,25-34,High,West,Monthly,Vegan,Competitor C,A healthy alternative to junk food.
+745,18-24,Low,East,Never,No preference,Competitor A,A quick energy boost during work.
+746,45-54,High,South,Weekly,Low-calorie,No preference,A quick energy boost during work.
+747,55-64,Medium,East,Weekly,Gluten-free,NourishAI,Something crunchy and tasty to enjoy.
+748,55-64,Medium,North,Weekly,No preference,NourishAI,A quick energy boost during work.
+749,18-24,Medium,West,Monthly,Gluten-free,Competitor B,Something crunchy and tasty to enjoy.
+750,45-54,Medium,West,Weekly,Gluten-free,Competitor B,A way to try new flavors and ingredients.
+751,25-34,Low,East,Rarely,No preference,No preference,Something crunchy and tasty to enjoy.
+752,65+,High,South,Monthly,Vegan,Competitor B,A guilty pleasure for movie nights.
+753,45-54,Low,West,Weekly,Low-calorie,Competitor C,A healthy alternative to junk food.
+754,18-24,Medium,East,Weekly,Organic,NourishAI,A quick energy boost during work.
+755,45-54,High,North,Weekly,Organic,Competitor A,A way to try new flavors and ingredients.
+756,65+,Medium,North,Monthly,Vegan,No preference,A way to try new flavors and ingredients.
+757,18-24,High,East,Rarely,Low-calorie,Competitor A,A quick energy boost during work.
+758,55-64,Low,South,Weekly,No preference,Competitor A,A way to try new flavors and ingredients.
+759,35-44,Low,West,Monthly,Low-calorie,NourishAI,A healthy alternative to junk food.
+760,35-44,High,West,Rarely,Low-calorie,Competitor A,A quick energy boost during work.
+761,25-34,Low,West,Weekly,Organic,Competitor A,A way to try new flavors and ingredients.
+762,35-44,Low,South,Monthly,Gluten-free,Competitor A,A guilty pleasure for movie nights.
+763,35-44,High,West,Rarely,Low-calorie,Competitor A,A way to try new flavors and ingredients.
+764,45-54,Low,West,Weekly,Organic,NourishAI,A way to try new flavors and ingredients.
+765,25-34,High,West,Monthly,Gluten-free,NourishAI,A way to try new flavors and ingredients.
+766,25-34,High,South,Weekly,High-protein,No preference,A guilty pleasure for movie nights.
+767,35-44,Medium,South,Never,No preference,NourishAI,Something crunchy and tasty to enjoy.
+768,35-44,Medium,North,Weekly,Gluten-free,NourishAI,A healthy alternative to junk food.
+769,65+,Low,East,Rarely,Organic,NourishAI,Something crunchy and tasty to enjoy.
+770,55-64,Low,East,Weekly,No preference,Competitor B,A quick energy boost during work.
+771,65+,Medium,East,Rarely,Gluten-free,NourishAI,A healthy alternative to junk food.
+772,35-44,Medium,West,Monthly,Gluten-free,Competitor A,A guilty pleasure for movie nights.
+773,65+,High,East,Weekly,Organic,NourishAI,A way to try new flavors and ingredients.
+774,35-44,Medium,East,Monthly,Organic,NourishAI,A healthy alternative to junk food.
+775,35-44,High,West,Never,Low-calorie,Competitor C,A guilty pleasure for movie nights.
+776,25-34,High,South,Never,No preference,Competitor C,A quick energy boost during work.
+777,25-34,High,East,Weekly,Low-calorie,NourishAI,A way to try new flavors and ingredients.
+778,45-54,High,North,Daily,Organic,Competitor A,A guilty pleasure for movie nights.
+779,45-54,High,East,Rarely,Low-calorie,NourishAI,A quick energy boost during work.
+780,35-44,Medium,West,Never,Low-calorie,Competitor C,A way to try new flavors and ingredients.
+781,25-34,High,West,Daily,High-protein,Competitor C,Something crunchy and tasty to enjoy.
+782,35-44,Low,East,Weekly,Gluten-free,Competitor A,A healthy alternative to junk food.
+783,35-44,Low,South,Rarely,Gluten-free,Competitor B,Something crunchy and tasty to enjoy.
+784,35-44,High,North,Monthly,Organic,NourishAI,A quick energy boost during work.
+785,45-54,High,North,Weekly,High-protein,NourishAI,A healthy alternative to junk food.
+786,25-34,Medium,East,Rarely,Gluten-free,NourishAI,A healthy alternative to junk food.
+787,35-44,Medium,South,Rarely,Organic,NourishAI,Something crunchy and tasty to enjoy.
+788,25-34,Medium,West,Rarely,No preference,NourishAI,A healthy alternative to junk food.
+789,18-24,Medium,South,Monthly,Low-calorie,NourishAI,A healthy alternative to junk food.
+790,18-24,High,North,Weekly,Gluten-free,Competitor A,A quick energy boost during work.
+791,18-24,Low,East,Monthly,High-protein,Competitor A,A quick energy boost during work.
+792,18-24,Low,West,Weekly,Vegan,No preference,A healthy alternative to junk food.
+793,45-54,Low,East,Daily,No preference,NourishAI,A healthy alternative to junk food.
+794,18-24,Medium,North,Monthly,No preference,Competitor B,A healthy alternative to junk food.
+795,18-24,Medium,West,Weekly,Organic,NourishAI,Something crunchy and tasty to enjoy.
+796,25-34,High,West,Rarely,Low-calorie,NourishAI,A quick energy boost during work.
+797,65+,Low,North,Monthly,No preference,No preference,A healthy alternative to junk food.
+798,45-54,Low,West,Rarely,Gluten-free,NourishAI,A guilty pleasure for movie nights.
+799,18-24,Low,West,Rarely,Low-calorie,NourishAI,Something crunchy and tasty to enjoy.
+800,45-54,Low,South,Monthly,No preference,Competitor A,A quick energy boost during work.
+801,18-24,Medium,North,Weekly,No preference,NourishAI,A quick energy boost during work.
+802,35-44,Low,West,Weekly,Vegan,NourishAI,A way to try new flavors and ingredients.
+803,25-34,Medium,West,Monthly,Gluten-free,Competitor A,A way to try new flavors and ingredients.
+804,45-54,High,South,Rarely,High-protein,Competitor B,A guilty pleasure for movie nights.
+805,25-34,Low,East,Weekly,Gluten-free,No preference,Something crunchy and tasty to enjoy.
+806,18-24,High,East,Weekly,Low-calorie,NourishAI,A way to try new flavors and ingredients.
+807,45-54,Medium,West,Weekly,Low-calorie,Competitor C,A quick energy boost during work.
+808,45-54,Medium,North,Monthly,Low-calorie,NourishAI,Something crunchy and tasty to enjoy.
+809,65+,High,South,Monthly,Organic,NourishAI,Something crunchy and tasty to enjoy.
+810,65+,Medium,East,Rarely,No preference,NourishAI,Something crunchy and tasty to enjoy.
+811,18-24,Low,South,Monthly,Gluten-free,NourishAI,Something crunchy and tasty to enjoy.
+812,65+,Low,East,Monthly,High-protein,NourishAI,A healthy alternative to junk food.
+813,18-24,High,North,Rarely,Gluten-free,Competitor A,A quick energy boost during work.
+814,65+,Low,East,Weekly,Low-calorie,Competitor B,A guilty pleasure for movie nights.
+815,35-44,High,South,Rarely,Vegan,Competitor C,A healthy alternative to junk food.
+816,55-64,Medium,North,Weekly,Gluten-free,Competitor C,Something crunchy and tasty to enjoy.
+817,18-24,Medium,North,Monthly,Organic,No preference,Something crunchy and tasty to enjoy.
+818,45-54,High,South,Weekly,Organic,NourishAI,Something crunchy and tasty to enjoy.
+819,18-24,Low,North,Weekly,No preference,Competitor C,A healthy alternative to junk food.
+820,65+,High,North,Weekly,High-protein,Competitor A,A way to try new flavors and ingredients.
+821,18-24,Medium,South,Weekly,Vegan,Competitor C,A healthy alternative to junk food.
+822,55-64,Medium,South,Weekly,Low-calorie,Competitor B,A way to try new flavors and ingredients.
+823,35-44,Low,South,Monthly,No preference,Competitor A,A quick energy boost during work.
+824,35-44,Medium,North,Weekly,High-protein,Competitor A,A guilty pleasure for movie nights.
+825,35-44,Medium,East,Rarely,Organic,Competitor A,Something crunchy and tasty to enjoy.
+826,55-64,Medium,East,Monthly,Gluten-free,No preference,A guilty pleasure for movie nights.
+827,65+,High,North,Monthly,Gluten-free,Competitor A,A way to try new flavors and ingredients.
+828,55-64,High,East,Daily,High-protein,Competitor A,A quick energy boost during work.
+829,55-64,High,North,Weekly,No preference,Competitor C,A guilty pleasure for movie nights.
+830,55-64,Medium,South,Weekly,Gluten-free,NourishAI,Something crunchy and tasty to enjoy.
+831,35-44,Medium,South,Daily,Low-calorie,Competitor A,A quick energy boost during work.
+832,65+,High,North,Monthly,Low-calorie,Competitor A,A way to try new flavors and ingredients.
+833,35-44,Low,North,Monthly,Low-calorie,Competitor B,A guilty pleasure for movie nights.
+834,35-44,Low,East,Never,Vegan,NourishAI,Something crunchy and tasty to enjoy.
+835,18-24,Low,West,Weekly,Gluten-free,Competitor C,Something crunchy and tasty to enjoy.
+836,55-64,Low,East,Rarely,Low-calorie,Competitor C,A healthy alternative to junk food.
+837,35-44,Medium,West,Monthly,Gluten-free,Competitor C,A healthy alternative to junk food.
+838,35-44,High,South,Never,No preference,Competitor A,A guilty pleasure for movie nights.
+839,45-54,High,North,Rarely,Vegan,Competitor C,A guilty pleasure for movie nights.
+840,18-24,High,East,Rarely,Gluten-free,NourishAI,Something crunchy and tasty to enjoy.
+841,25-34,Medium,South,Monthly,Organic,Competitor B,A quick energy boost during work.
+842,45-54,High,East,Monthly,No preference,Competitor C,A guilty pleasure for movie nights.
+843,45-54,Medium,North,Never,Gluten-free,Competitor C,A healthy alternative to junk food.
+844,18-24,High,North,Weekly,Organic,NourishAI,Something crunchy and tasty to enjoy.
+845,18-24,Low,West,Rarely,Organic,NourishAI,Something crunchy and tasty to enjoy.
+846,45-54,Low,South,Weekly,Gluten-free,Competitor A,A healthy alternative to junk food.
+847,65+,Low,North,Weekly,Organic,Competitor A,A healthy alternative to junk food.
+848,25-34,Medium,West,Weekly,Low-calorie,Competitor A,A way to try new flavors and ingredients.
+849,65+,Medium,East,Monthly,High-protein,NourishAI,A way to try new flavors and ingredients.
+850,25-34,Medium,North,Weekly,No preference,Competitor B,Something crunchy and tasty to enjoy.
+851,35-44,Medium,North,Monthly,High-protein,NourishAI,Something crunchy and tasty to enjoy.
+852,25-34,Medium,East,Weekly,Low-calorie,No preference,A quick energy boost during work.
+853,35-44,High,South,Weekly,Vegan,NourishAI,A guilty pleasure for movie nights.
+854,65+,High,North,Weekly,No preference,NourishAI,A guilty pleasure for movie nights.
+855,25-34,Low,West,Monthly,Gluten-free,Competitor A,A guilty pleasure for movie nights.
+856,55-64,High,South,Monthly,Gluten-free,Competitor C,A way to try new flavors and ingredients.
+857,18-24,High,East,Monthly,No preference,Competitor A,A quick energy boost during work.
+858,45-54,Medium,West,Monthly,Organic,Competitor A,A guilty pleasure for movie nights.
+859,18-24,High,North,Weekly,Gluten-free,No preference,A way to try new flavors and ingredients.
+860,25-34,High,West,Monthly,Vegan,No preference,Something crunchy and tasty to enjoy.
+861,55-64,Medium,North,Weekly,Organic,Competitor C,A healthy alternative to junk food.
+862,55-64,Low,West,Weekly,No preference,Competitor A,A guilty pleasure for movie nights.
+863,18-24,Low,West,Weekly,No preference,Competitor A,A way to try new flavors and ingredients.
+864,35-44,Low,South,Weekly,Gluten-free,Competitor A,A healthy alternative to junk food.
+865,45-54,High,South,Monthly,High-protein,Competitor B,A way to try new flavors and ingredients.
+866,45-54,Medium,South,Monthly,Vegan,Competitor A,A way to try new flavors and ingredients.
+867,35-44,High,West,Weekly,Gluten-free,No preference,A quick energy boost during work.
+868,25-34,Low,West,Weekly,Organic,Competitor A,Something crunchy and tasty to enjoy.
+869,65+,Low,South,Rarely,High-protein,Competitor A,Something crunchy and tasty to enjoy.
+870,18-24,High,East,Monthly,Vegan,Competitor B,A quick energy boost during work.
+871,55-64,Medium,North,Monthly,Gluten-free,Competitor A,A way to try new flavors and ingredients.
+872,55-64,High,North,Never,Gluten-free,No preference,A quick energy boost during work.
+873,35-44,High,West,Monthly,Organic,NourishAI,A healthy alternative to junk food.
+874,45-54,Low,East,Weekly,Vegan,No preference,Something crunchy and tasty to enjoy.
+875,45-54,High,North,Never,No preference,NourishAI,A quick energy boost during work.
+876,45-54,Low,North,Monthly,Low-calorie,Competitor B,A way to try new flavors and ingredients.
+877,65+,Low,South,Monthly,No preference,NourishAI,Something crunchy and tasty to enjoy.
+878,25-34,High,West,Weekly,Gluten-free,Competitor A,A way to try new flavors and ingredients.
+879,65+,Medium,East,Never,Organic,No preference,A healthy alternative to junk food.
+880,18-24,Medium,South,Monthly,No preference,Competitor B,A healthy alternative to junk food.
+881,18-24,Medium,East,Monthly,High-protein,NourishAI,A healthy alternative to junk food.
+882,65+,High,East,Weekly,Vegan,NourishAI,Something crunchy and tasty to enjoy.
+883,25-34,Low,North,Never,Gluten-free,NourishAI,Something crunchy and tasty to enjoy.
+884,18-24,High,South,Weekly,No preference,Competitor B,A healthy alternative to junk food.
+885,55-64,Medium,West,Weekly,Organic,NourishAI,A guilty pleasure for movie nights.
+886,65+,Medium,West,Monthly,No preference,Competitor C,A healthy alternative to junk food.
+887,55-64,Low,South,Rarely,Low-calorie,Competitor C,A guilty pleasure for movie nights.
+888,55-64,Low,East,Rarely,High-protein,NourishAI,A healthy alternative to junk food.
+889,25-34,Low,South,Monthly,High-protein,NourishAI,A guilty pleasure for movie nights.
+890,18-24,Low,West,Weekly,Low-calorie,No preference,A quick energy boost during work.
+891,25-34,High,North,Daily,Organic,Competitor A,A way to try new flavors and ingredients.
+892,65+,Low,South,Weekly,High-protein,Competitor B,A quick energy boost during work.
+893,65+,Medium,East,Weekly,No preference,NourishAI,A guilty pleasure for movie nights.
+894,55-64,High,West,Never,Low-calorie,NourishAI,A healthy alternative to junk food.
+895,45-54,Medium,South,Weekly,Organic,Competitor C,Something crunchy and tasty to enjoy.
+896,65+,Medium,East,Rarely,High-protein,NourishAI,A guilty pleasure for movie nights.
+897,25-34,Low,South,Weekly,Organic,NourishAI,Something crunchy and tasty to enjoy.
+898,65+,Low,East,Monthly,Vegan,Competitor A,A guilty pleasure for movie nights.
+899,65+,Low,West,Weekly,Low-calorie,Competitor B,A way to try new flavors and ingredients.
+900,45-54,Medium,South,Weekly,Vegan,NourishAI,Something crunchy and tasty to enjoy.
+901,35-44,Medium,South,Monthly,High-protein,Competitor A,A quick energy boost during work.
+902,65+,High,East,Never,Organic,Competitor B,A quick energy boost during work.
+903,45-54,Medium,South,Monthly,Vegan,Competitor C,A guilty pleasure for movie nights.
+904,25-34,High,West,Monthly,Gluten-free,NourishAI,A way to try new flavors and ingredients.
+905,65+,Low,South,Weekly,Low-calorie,NourishAI,A way to try new flavors and ingredients.
+906,18-24,Low,East,Rarely,Organic,Competitor C,Something crunchy and tasty to enjoy.
+907,18-24,High,East,Monthly,High-protein,NourishAI,A healthy alternative to junk food.
+908,25-34,Medium,South,Monthly,Gluten-free,NourishAI,A quick energy boost during work.
+909,45-54,High,West,Monthly,Vegan,Competitor C,Something crunchy and tasty to enjoy.
+910,35-44,Low,East,Monthly,No preference,NourishAI,A quick energy boost during work.
+911,25-34,Medium,West,Never,No preference,NourishAI,A quick energy boost during work.
+912,25-34,High,North,Monthly,Organic,Competitor C,Something crunchy and tasty to enjoy.
+913,45-54,Low,East,Rarely,Low-calorie,Competitor A,A way to try new flavors and ingredients.
+914,55-64,Medium,North,Monthly,No preference,Competitor B,A guilty pleasure for movie nights.
+915,55-64,Medium,South,Monthly,Low-calorie,NourishAI,A quick energy boost during work.
+916,45-54,High,North,Weekly,Vegan,No preference,A healthy alternative to junk food.
+917,35-44,High,West,Rarely,Vegan,Competitor A,Something crunchy and tasty to enjoy.
+918,45-54,Medium,North,Never,Low-calorie,Competitor C,A quick energy boost during work.
+919,65+,Low,North,Monthly,Low-calorie,Competitor C,A quick energy boost during work.
+920,65+,Medium,East,Weekly,Organic,Competitor B,A healthy alternative to junk food.
+921,55-64,Medium,East,Weekly,High-protein,Competitor C,A healthy alternative to junk food.
+922,45-54,High,East,Rarely,Organic,Competitor A,A quick energy boost during work.
+923,45-54,Medium,South,Daily,No preference,NourishAI,A quick energy boost during work.
+924,35-44,High,North,Rarely,High-protein,NourishAI,A way to try new flavors and ingredients.
+925,65+,Low,North,Monthly,High-protein,NourishAI,A guilty pleasure for movie nights.
+926,45-54,Medium,East,Weekly,No preference,NourishAI,A way to try new flavors and ingredients.
+927,55-64,High,West,Weekly,Vegan,NourishAI,A healthy alternative to junk food.
+928,65+,Low,North,Weekly,Gluten-free,No preference,A guilty pleasure for movie nights.
+929,65+,Medium,East,Weekly,No preference,Competitor C,A quick energy boost during work.
+930,18-24,Low,East,Weekly,Vegan,Competitor A,A way to try new flavors and ingredients.
+931,65+,Medium,South,Rarely,Organic,Competitor C,A way to try new flavors and ingredients.
+932,18-24,Medium,West,Daily,Vegan,Competitor A,A way to try new flavors and ingredients.
+933,35-44,Low,South,Daily,High-protein,NourishAI,A way to try new flavors and ingredients.
+934,18-24,Low,North,Never,High-protein,No preference,A healthy alternative to junk food.
+935,25-34,Medium,South,Daily,No preference,Competitor A,A quick energy boost during work.
+936,25-34,Low,North,Weekly,No preference,Competitor C,A healthy alternative to junk food.
+937,18-24,Medium,South,Daily,Gluten-free,No preference,Something crunchy and tasty to enjoy.
+938,55-64,High,West,Monthly,No preference,Competitor B,A guilty pleasure for movie nights.
+939,25-34,Low,East,Monthly,Gluten-free,Competitor C,A way to try new flavors and ingredients.
+940,65+,Low,East,Weekly,Low-calorie,NourishAI,A guilty pleasure for movie nights.
+941,45-54,Low,East,Never,Gluten-free,Competitor C,A quick energy boost during work.
+942,55-64,Low,North,Monthly,Organic,NourishAI,A guilty pleasure for movie nights.
+943,65+,Medium,North,Weekly,Gluten-free,NourishAI,Something crunchy and tasty to enjoy.
+944,65+,High,East,Rarely,No preference,Competitor C,A quick energy boost during work.
+945,55-64,Medium,North,Monthly,Vegan,Competitor B,A way to try new flavors and ingredients.
+946,55-64,Low,South,Weekly,High-protein,No preference,A healthy alternative to junk food.
+947,25-34,Low,West,Monthly,Low-calorie,NourishAI,Something crunchy and tasty to enjoy.
+948,25-34,Medium,North,Monthly,Organic,NourishAI,A quick energy boost during work.
+949,25-34,High,North,Daily,No preference,Competitor B,Something crunchy and tasty to enjoy.
+950,65+,High,North,Monthly,Vegan,NourishAI,A quick energy boost during work.
+951,65+,Low,South,Weekly,Gluten-free,NourishAI,Something crunchy and tasty to enjoy.
+952,18-24,Medium,North,Monthly,No preference,Competitor C,A way to try new flavors and ingredients.
+953,55-64,Low,West,Daily,Low-calorie,Competitor A,A quick energy boost during work.
+954,35-44,Low,East,Daily,Gluten-free,NourishAI,A healthy alternative to junk food.
+955,18-24,High,East,Monthly,Organic,Competitor C,A quick energy boost during work.
+956,55-64,Low,East,Rarely,Gluten-free,Competitor B,A guilty pleasure for movie nights.
+957,18-24,High,North,Daily,Gluten-free,NourishAI,A healthy alternative to junk food.
+958,55-64,High,West,Monthly,High-protein,NourishAI,A way to try new flavors and ingredients.
+959,25-34,Medium,West,Weekly,Low-calorie,Competitor A,A way to try new flavors and ingredients.
+960,25-34,High,West,Rarely,Gluten-free,NourishAI,Something crunchy and tasty to enjoy.
+961,35-44,Medium,North,Monthly,Organic,Competitor C,A way to try new flavors and ingredients.
+962,45-54,High,South,Monthly,High-protein,NourishAI,A way to try new flavors and ingredients.
+963,18-24,Low,West,Daily,High-protein,Competitor C,A quick energy boost during work.
+964,18-24,High,South,Monthly,Vegan,Competitor A,A healthy alternative to junk food.
+965,18-24,High,West,Rarely,Vegan,Competitor A,A way to try new flavors and ingredients.
+966,45-54,Low,South,Weekly,Organic,Competitor C,A quick energy boost during work.
+967,45-54,High,West,Monthly,Organic,Competitor A,A guilty pleasure for movie nights.
+968,55-64,Low,South,Monthly,Gluten-free,NourishAI,A healthy alternative to junk food.
+969,45-54,High,North,Monthly,No preference,NourishAI,A healthy alternative to junk food.
+970,25-34,High,South,Weekly,Low-calorie,No preference,A guilty pleasure for movie nights.
+971,45-54,Medium,West,Monthly,No preference,Competitor B,A guilty pleasure for movie nights.
+972,18-24,Medium,North,Weekly,Vegan,Competitor C,A quick energy boost during work.
+973,18-24,Medium,East,Monthly,Gluten-free,Competitor C,A quick energy boost during work.
+974,55-64,Low,West,Weekly,Organic,Competitor C,A healthy alternative to junk food.
+975,45-54,Medium,West,Weekly,Low-calorie,Competitor B,A quick energy boost during work.
+976,25-34,High,East,Weekly,No preference,Competitor B,Something crunchy and tasty to enjoy.
+977,18-24,High,South,Never,No preference,NourishAI,A healthy alternative to junk food.
+978,25-34,Medium,North,Monthly,Gluten-free,Competitor B,A way to try new flavors and ingredients.
+979,35-44,Medium,West,Weekly,Gluten-free,Competitor C,Something crunchy and tasty to enjoy.
+980,35-44,Low,West,Weekly,Vegan,NourishAI,A healthy alternative to junk food.
+981,45-54,Medium,South,Weekly,No preference,NourishAI,Something crunchy and tasty to enjoy.
+982,18-24,Medium,South,Never,Gluten-free,Competitor B,A way to try new flavors and ingredients.
+983,18-24,High,East,Monthly,No preference,Competitor C,A way to try new flavors and ingredients.
+984,55-64,Medium,West,Daily,Vegan,NourishAI,A healthy alternative to junk food.
+985,18-24,High,South,Rarely,No preference,Competitor A,Something crunchy and tasty to enjoy.
+986,55-64,High,West,Weekly,No preference,NourishAI,Something crunchy and tasty to enjoy.
+987,65+,Medium,West,Monthly,Gluten-free,NourishAI,Something crunchy and tasty to enjoy.
+988,18-24,High,East,Daily,Gluten-free,Competitor B,Something crunchy and tasty to enjoy.
+989,45-54,Low,East,Weekly,Vegan,NourishAI,A quick energy boost during work.
+990,45-54,High,East,Daily,High-protein,NourishAI,A way to try new flavors and ingredients.
+991,35-44,Medium,East,Monthly,Gluten-free,NourishAI,Something crunchy and tasty to enjoy.
+992,45-54,Medium,North,Weekly,Organic,Competitor A,A way to try new flavors and ingredients.
+993,55-64,Low,West,Weekly,No preference,NourishAI,A healthy alternative to junk food.
+994,25-34,Low,East,Monthly,Organic,Competitor A,A way to try new flavors and ingredients.
+995,25-34,Medium,North,Monthly,Organic,Competitor B,A way to try new flavors and ingredients.
+996,45-54,Low,West,Weekly,No preference,Competitor B,A quick energy boost during work.
+997,45-54,Medium,South,Monthly,Vegan,NourishAI,A way to try new flavors and ingredients.
+998,65+,Medium,East,Monthly,Organic,Competitor B,A guilty pleasure for movie nights.
+999,35-44,Low,North,Monthly,Gluten-free,Competitor C,A way to try new flavors and ingredients.
+1000,25-34,Medium,East,Rarely,Organic,NourishAI,A quick energy boost during work.

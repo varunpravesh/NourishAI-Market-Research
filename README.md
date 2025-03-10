@@ -35,6 +35,7 @@ The majority of users are aged 20-35, peaking at 30 years old, with engagement d
 ### Customer Satisfaction
 
 #### Age Distribution
+![](Images/AgeDistribution.png)
 
 - The histogram shows a high concentration of users between ages 20-35, peaking around 30 years old.
 - The number of users declines steadily from 40 onwards, with smaller peaks around 50 and 60 years old.

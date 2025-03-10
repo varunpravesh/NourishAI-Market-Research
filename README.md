@@ -35,40 +35,46 @@ The majority of users are aged 20-35, peaking at 30 years old, with engagement d
 ### Customer Satisfaction
 
 #### Age Distribution
-![](Images/Age Distributionn.png)
+![](Images/Age%20Distribtionn.png)
 
-- The histogram shows a high concentration of users between ages 20-35, peaking around 30 years old.
-- The number of users declines steadily from 40 onwards, with smaller peaks around 50 and 60 years old.
+- The histogram shows a high concentration of users between ages 20-35, peaking around 30 years old. This suggests that the primary user base is **young adults.** 
+- The number of users declines steadily from 40 onwards, with smaller peaks around 50 and 60 years old. This indicates that **older adults (50+) are less engaged** with the service. 
 
 #### Most Satisfied Customers
-
-- Most satisfied users are between 20-35, with a peak at 30 years old.
-- Meal plans appeal more to younger users, possibly due to convenience, affordability, or health-conscious decisions.
-- No major increase in satisfaction among older users.
+![](Images/MostSatisfied.png)
+- There is a strong concentration of satisfied users aged between 20-35, with a peak at 30 years old. The trend is similar to the general age distribution, suggesting that **most users who try the service belong to this age group. **
+- There is no major increase in satisfaction among older users, meaning meal plans are **not exceptionally popular among seniors. **
 
 #### Correlation Between Subscription Period and Satisfaction Score
-
-- Even dissatisfied users have similar subscription lengths as highly satisfied users.
-- External factors like convenience and lack of alternatives may influence subscription duration.
-- The average subscription length is around 6.6 to 7.1 months across all satisfaction scores.
+![](Images/SubscriptionCorr.png)
+- If satisfaction had a direct impact on subscription duration, we would expect higher satisfaction scores to correlate with longer subscriptions. However, here we see that even dissatisfied users (low scores) have similar subscription lengths as highly satisfied users (scores 9-10). This suggests that **external factors (such as commitment to meal plans, convenience, or lack of alternatives) may be influencing how long users stay subscribed. **
+- Since lower satisfaction does not necessarily translate into immediate cancellations, the company might have an opportunity to **increase satisfaction while keeping customers engaged**. Identifying **why lower-satisfaction users remain subscribed** could be a key factor in improving retention.
+- The lowest satisfaction scores (1-3) show slightly shorter subscription durations, but not significantly different from other scores. This might indicate that **even the most dissatisfied users don't immediately cancel**, which could be due to factors like prepaid subscriptions or trial periods.
+- The length of an average subscription is around 6.6 to 7.1 months across all satisfaction scores. 
 
 #### Feedbacks
+<div style="display: flex; justify-content: center;">
+    <img src="Images/Keywords.png" width="65%" />
+    <img src="Images/SentimentAnalysis.png" width="30%" />
+</div>
 
-- Most feedback is positive, highlighting variety, quality, and convenience.
-- A small fraction of customers are dissatisfied due to delivery delays, portion sizes, or lack of customization.
+- The majority of feedback is positive, indicating that most customers are satisfied with the meal plans. Customers highly appreciate **variety, quality, and convenience**. The meal plans are perceived as **well-balanced and fresh**, attracting health-conscious consumers. **Customer service and flexibility** are valued aspects of the subscription. 
+- A small fraction of customers is dissatisfied, likely due to issues such as **delivery delays, portion sizes, or quality inconsistencies.** Some customers desire **more customization options** for meals.
+- **Needs, Wish** are among the top keywords which suggest areas where customers expect improvements.
 
 ### Sales Analysis
 
 #### Sales Comparison
-
-- Sales grew consistently from Year 1 to Year 2, with August (+12.9%) and June (+12.5%) showing the highest growth.
-- December had the highest sales in both years, followed by November, indicating strong holiday demand.
+![](Images/SalesComparison.png)
+- Sales grew in every month from Year 1 to Year 2, showing a consistent upward trend. **August had the highest growth rate (12.9%)**, followed by **June (12.5%) and March (11.73%)**. **July** had the **lowest growth rate (4.5%)**, indicating a relatively weaker month.
+- December had the highest sales in both years followed by November, confirming strong holiday season demand. While July had the lowest sales aligning with a **seasonal slowdown**. 
 
 #### Monthly Growth Rates and Sales Forecast
-
-- Growth remained above 10% for most months, except for April (5.77%) and July (4.5%).
-- August had the highest growth peak (12.94%).
-- The forecast suggests continued sales growth in Year 3.
+![](Images/GrowthRate.png)
+![](Images/SalesForecast.png)
+- Growth remained **above 10% for most months**, with notable exceptions in April (5.77%) and July (4.5%).  A sharp decline here could be highlighting **potential weak demand** or **operational inefficiencies**. 
+- The highest growth peak was observed in **August (12.94%)**, followed by **June (12.5%)**, suggesting strong mid-year performance. 
+- The forecast suggests an **increase in sales in the 3rd year** as seen in the first two years. **January to March show steady growth**, with forecasted sales crossing 1400+ units each month. While July still appears to be a low-performing month (1045 units forecasted sales), in line with historical trends. 
 
 ### Snack Preferences
 

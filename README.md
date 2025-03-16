@@ -79,57 +79,75 @@ The majority of users are aged 20-35, peaking at 30 years old, with engagement d
 ### Snack Preferences
 
 #### Purchase Frequency of Each Age Group
-
-- Monthly purchases (~55-60 per group) are the most common.
-- Daily purchases are the least frequent.
-- The 35-44 group has slightly higher daily purchases.
+![](Images/Purchase%20Frequency.png)
+- The highest count of purchases in all age groups is in the Monthly category (~55-60 purchases per group), suggesting that people tend to buy and stock them in bulk instead of buying them frequently.
+- Similarly, it can be seen that out of all purchase trends Daily purchase frequency is the lowest indicating that people prefer buying and stocking instead of buying new ones every day.
+- The 65+ age group has a notable drop in Weekly & Daily purchases (having less than 30 "Rarely" purchases). Suggesting reduced snack consumption which might be due to health considerations.
+- The 35-44 group has ~18-20 daily purchases, slightly higher than other groups. Represents a small 
+but loyal segment that could be targeted with convenience-sized or on-the-go snack options.
 
 #### Health Preference of Each Age Group
-
-- The 25-34 group prefers gluten-free (19.6%), high-protein (19.6%), and low-calorie (21.2%) snacks.
-- The 35-44 group prefers organic (21.2%) and vegan (22.4%) snacks.
-- The 65+ age group shows minimal interest in specialized snacks.
+![](Images/Food%20Preference-1.png)
+![](Images/Food%20Preference-2.png)
+- The 25-34 age group shows the highest demand for gluten-free (19.6%), high-protein (19.6%), and low-calorie (21.2%) snacks, indicating a strong focus on fitness and healthy eating.
+- The 35-44 age group has the highest preference for organic (21.2%) and vegan (22.4%) snacks, making them the primary consumers of plant-based and natural products.
+- Older consumers (65+) don’t seem to be much interested in any of the snack varieties, one reason could be their preference in traditional snacks.
 
 #### Snack Perception
+<div style="display: flex; justify-content: center;">
+    <img src="Images/Opinion1.png" width="40%" />
+    <img src="Images/Opinion2.png" width="40%" />
+</div>
 
-- Young adults (18-24) seek energy-boosting and crunchy snacks.
-- The 25-34 age group prioritizes flavor, healthy alternatives, and energy boosts.
-- Older adults (55-64) prioritize healthy alternatives, while the 65+ group sees snacks as a mix of guilty pleasure and energy boosters.
+- Young Adults (18-24) Seek Energy & Texture. The top perception for this group is "Energy Boost" (41 responses), followed by "Crunchy" (39 responses). This suggests that younger consumers associate snacks with quick energy and satisfying texture, making functional and crunchy snacks appealing.
+- This people in 25-34 age group prioritize "Flavors" (43 responses) more than any other attribute, showing that taste is a key factor. "Healthy Alternative" (36 responses) and "Energy Boost" (35 responses) also rank high, indicating a balance between indulgence and health-conscious choices.
+- Middle Age Groups (35-54) show varied preferences, some want their snack to be crunchy while others want them flavourful and energizing.
+- 55-64 group leans towards "Healthy Alternative" (39 responses), showing an increasing preference for nutritious snacks. While the 65+ group sees "Guilty Pleasure" (31 responses) and "Energy Boost" (31 responses) as top perceptions, indicating a mix of indulgence and functional snacking.
 
 #### Brands Purchased Frequently
+![](Images/Brand.png)
 
-- NourishAI leads the market with 375 purchases.
-- Competitor A (196 purchases) is the second most preferred brand.
-- 122 respondents indicated no strong brand preference, showing potential for market capture.
+- NourishAI Leads the Market. NourishAI has the highest purchase frequency at 375, significantly ahead of its competitors. This suggests that NourishAI is the most preferred brand among consumers.
+- Competitor A has a purchase frequency of 196, which is about 52% lower than NourishAI. While it's the second most preferred brand, it still has a substantial gap compared to NourishAI, indicating room for growth.
+- Competitor B (155) and Competitor C (152) are almost at the same level in purchase frequency. Their close numbers suggest they appeal to a similar customer base but lag behind NourishAI and Competitor A.
 
 #### Brand Recall by Health Preference
-
-- NourishAI is the most preferred brand across all dietary categories.
-- Competitor A performs well in gluten-free and high-protein segments.
-- 60 users in the "No Preference" category suggest an opportunity for brand growth.
+![](Images/BrandRecallFood.png)
+-  NourishAI is the Most Preferred Brand Across All Categories. In every dietary category (Glutenfree, High-protein, Low-calorie, Organic, Vegan), NourishAI leads significantly. Particularly dominant in Organic and High-protein segments, suggesting strong brand trust in health conscious consumers.
+- After NourishAI, Competitor A leads the market. Gluten-free (around 38 users) and High-protein (around 40 users) see Competitor A performing well. This suggests that Competitor A has a niche customer base looking for specific health benefits.
+- Around 60 users in "No Preference" segment suggest an opportunity for competitors to win over undecided consumers. This segment is crucial for future marketing campaigns, offering a chance to attract new loyal customers.
 
 #### Brand Recall Distribution Across Income Levels
-
-- NourishAI has the highest brand recall across all income levels.
-- Competitor brands have a more balanced recall but at lower volumes.
+![](Images/IncomeLevelVsBrand.png)
+- Compared to competitors (A, B, C), NourishAI has the highest brand recall across all income levels. The total number of users recalling NourishAI is significantly higher than those recalling competitors or having no preference.
+- All brands, including "No Preference," have a mix of High, Medium, and Low-income users.NourishAI has a higher recall among High and Low-income users compared to competitors. Competitor brands (A, B, C) have a more balanced recall across income levels but at a lower total volume.
+- The number of users with no brand preference is the lowest among all categories. This suggests that most customers have a brand association when it comes to snack choices.
 
 ## Takeaway
 
-- **Young Adults (20-35) Are the Core Customer Base:** This group shows the highest satisfaction and engagement.
-- **Sales Show Consistent Growth, But July Is a Weak Month:** Seasonal dips or operational challenges in July need attention.
-- **NourishAI Dominates the Market in Brand Recall & Purchases:** 122 users with no brand preference present a market opportunity.
+- **Young Adults (20-35) Are the Core Customer Base:**
+  - Age distribution and satisfaction trends show that the majority of users are between 20-35 years old, 
+    peaking at 30 years old.
+    This group is also the most satisfied, indicating that meal plans and snack offerings align with their 
+    needs (convenience, affordability, health focus). Older users (50+) show lower engagement, suggesting a potential gap in offerings for this segment
+- **Sales Show Consistent Growth, But July Is a Weak Month:** 
+  - Sales increased every month from Year 1 to Year 2, with August (12.9%) and June (12.5%) showing the highest growth. December and November have the highest         sales, confirming strong demand during the holiday season. July is the lowest-performing month, indicating seasonal dips or operational challenges that could 
+    be addressed.
+- **NourishAI Dominates the Market in Brand Recall & Purchases:**
+  - NourishAI leads in brand recall (375 users) and purchases, significantly outperforming Competitor A (196 users). 122 users have no brand preference, showing       potential for competitors to capture market share 
+    with better offerings.
+
 
 ## Recommendations
 
-- **Expand Appeal to Older Adults (40+):** Introduce senior-friendly meal plans and loyalty programs.
-- **Improve Subscription Retention:** Introduce tiered pricing and mid-subscription incentives.
-- **Address Negative Feedback Areas:** Improve delivery reliability and meal customization.
-- **Expand Popular Snack Options:** Focus on high-protein, gluten-free, and low-calorie snacks.
-- **Target Undecided Consumers:** Use targeted marketing, trial packs, and influencer collaborations.
+- **Expand Appeal to Older Adults (40+)**. Since engagement drops after 40, introduce meal plans catering to this group with **customized dietary options** (e.g., heart-healthy, low-sodium, diabeticfriendly). Offer **senior discounts** or **loyalty programs** to encourage long-term subscriptions.
+- Given that subscriptions last around **6.6 to 7.1 months**, introduce **tiered pricing models** (e.g., lower rates for 12-month plans) to extend customer retention. **Add mid-subscription incentives** (e.g., a free healthy snack after 6 months) to maintain engagement.
+- Addressing Negative Feedback Areas like improving **delivery reliability** by optimizing logistics and offering real-time tracking. **Adjust portion sizes** based on customer feedback to better meet expectations. Introduce **more customization options** (e.g., ingredient swaps, portion adjustments, dietary preferences)
+- Since **young adults (25-34) prioritize high-protein, gluten-free, and low-calorie snacks**, NourishAI should **expand these snack options.**
+- Since **122 users have no brand preference**, there’s an opportunity to capture these undecided customers with targeted marketing campaigns and **introductory trial packs**. Highlight NourishAI’s dominance in health-conscious segments (e.g., high-protein, organic) with **stronger brand storytelling** in ads, influencer collaborations, and social proof (testimonials, ratings).
 
-By addressing these opportunities, NourishAI can solidify its market leadership, boost customer satisfaction, and drive long-term growth.
+  
+By addressing these opportunities, **NourishAI** can solidify its market leadership, boost customer satisfaction, and drive long-term growth.
 
 ---
 This report is based on synthetic data generated using the Faker library in Python. The findings and insights presented are for analytical and illustrative purposes only and do not reflect real-world data.
-
-By: **Varun Pravesh** (varunpravesh2077@gmail.com)
